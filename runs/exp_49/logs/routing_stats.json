@@ -1,0 +1,991 @@
+{
+    "total_samples": 277,
+    "hits": 180,
+    "misses": 820,
+    "false_hits": 51,
+    "dropped_samples": 723,
+    "prompt_usage": {
+        "5": {
+            "count": 11,
+            "image_ids": [
+                "sample_1",
+                "sample_83",
+                "sample_86",
+                "sample_150",
+                "sample_162",
+                "sample_171",
+                "sample_255",
+                "sample_388",
+                "sample_468",
+                "sample_480",
+                "sample_555"
+            ]
+        },
+        "6": {
+            "count": 5,
+            "image_ids": [
+                "sample_2",
+                "sample_7",
+                "sample_49",
+                "sample_111",
+                "sample_657"
+            ]
+        },
+        "2": {
+            "count": 3,
+            "image_ids": [
+                "sample_6",
+                "sample_231",
+                "sample_643"
+            ]
+        },
+        "7": {
+            "count": 7,
+            "image_ids": [
+                "sample_9",
+                "sample_31",
+                "sample_259",
+                "sample_444",
+                "sample_658",
+                "sample_801",
+                "sample_889"
+            ]
+        },
+        "8": {
+            "count": 8,
+            "image_ids": [
+                "sample_10",
+                "sample_26",
+                "sample_113",
+                "sample_147",
+                "sample_349",
+                "sample_355",
+                "sample_540",
+                "sample_671"
+            ]
+        },
+        "9": {
+            "count": 6,
+            "image_ids": [
+                "sample_16",
+                "sample_17",
+                "sample_183",
+                "sample_193",
+                "sample_319",
+                "sample_572"
+            ]
+        },
+        "10": {
+            "count": 10,
+            "image_ids": [
+                "sample_21",
+                "sample_37",
+                "sample_68",
+                "sample_72",
+                "sample_125",
+                "sample_268",
+                "sample_552",
+                "sample_585",
+                "sample_601",
+                "sample_902"
+            ]
+        },
+        "11": {
+            "count": 1,
+            "image_ids": [
+                "sample_22"
+            ]
+        },
+        "12": {
+            "count": 1,
+            "image_ids": [
+                "sample_30"
+            ]
+        },
+        "13": {
+            "count": 3,
+            "image_ids": [
+                "sample_35",
+                "sample_244",
+                "sample_759"
+            ]
+        },
+        "14": {
+            "count": 1,
+            "image_ids": [
+                "sample_36"
+            ]
+        },
+        "15": {
+            "count": 4,
+            "image_ids": [
+                "sample_39",
+                "sample_99",
+                "sample_106",
+                "sample_628"
+            ]
+        },
+        "16": {
+            "count": 1,
+            "image_ids": [
+                "sample_42"
+            ]
+        },
+        "17": {
+            "count": 8,
+            "image_ids": [
+                "sample_48",
+                "sample_85",
+                "sample_107",
+                "sample_216",
+                "sample_219",
+                "sample_381",
+                "sample_383",
+                "sample_631"
+            ]
+        },
+        "18": {
+            "count": 1,
+            "image_ids": [
+                "sample_51"
+            ]
+        },
+        "19": {
+            "count": 10,
+            "image_ids": [
+                "sample_62",
+                "sample_198",
+                "sample_209",
+                "sample_212",
+                "sample_257",
+                "sample_258",
+                "sample_450",
+                "sample_556",
+                "sample_600",
+                "sample_746"
+            ]
+        },
+        "20": {
+            "count": 1,
+            "image_ids": [
+                "sample_78"
+            ]
+        },
+        "21": {
+            "count": 2,
+            "image_ids": [
+                "sample_80",
+                "sample_399"
+            ]
+        },
+        "22": {
+            "count": 5,
+            "image_ids": [
+                "sample_84",
+                "sample_112",
+                "sample_363",
+                "sample_522",
+                "sample_866"
+            ]
+        },
+        "23": {
+            "count": 2,
+            "image_ids": [
+                "sample_109",
+                "sample_110"
+            ]
+        },
+        "24": {
+            "count": 1,
+            "image_ids": [
+                "sample_121"
+            ]
+        },
+        "25": {
+            "count": 1,
+            "image_ids": [
+                "sample_124"
+            ]
+        },
+        "26": {
+            "count": 1,
+            "image_ids": [
+                "sample_132"
+            ]
+        },
+        "27": {
+            "count": 3,
+            "image_ids": [
+                "sample_144",
+                "sample_285",
+                "sample_354"
+            ]
+        },
+        "28": {
+            "count": 3,
+            "image_ids": [
+                "sample_146",
+                "sample_210",
+                "sample_316"
+            ]
+        },
+        "29": {
+            "count": 1,
+            "image_ids": [
+                "sample_148"
+            ]
+        },
+        "30": {
+            "count": 2,
+            "image_ids": [
+                "sample_158",
+                "sample_397"
+            ]
+        },
+        "31": {
+            "count": 6,
+            "image_ids": [
+                "sample_169",
+                "sample_256",
+                "sample_282",
+                "sample_588",
+                "sample_651",
+                "sample_789"
+            ]
+        },
+        "32": {
+            "count": 1,
+            "image_ids": [
+                "sample_184"
+            ]
+        },
+        "33": {
+            "count": 1,
+            "image_ids": [
+                "sample_185"
+            ]
+        },
+        "34": {
+            "count": 2,
+            "image_ids": [
+                "sample_190",
+                "sample_510"
+            ]
+        },
+        "35": {
+            "count": 1,
+            "image_ids": [
+                "sample_197"
+            ]
+        },
+        "36": {
+            "count": 1,
+            "image_ids": [
+                "sample_213"
+            ]
+        },
+        "37": {
+            "count": 2,
+            "image_ids": [
+                "sample_218",
+                "sample_229"
+            ]
+        },
+        "38": {
+            "count": 3,
+            "image_ids": [
+                "sample_220",
+                "sample_721",
+                "sample_749"
+            ]
+        },
+        "39": {
+            "count": 1,
+            "image_ids": [
+                "sample_222"
+            ]
+        },
+        "40": {
+            "count": 2,
+            "image_ids": [
+                "sample_230",
+                "sample_233"
+            ]
+        },
+        "41": {
+            "count": 3,
+            "image_ids": [
+                "sample_239",
+                "sample_459",
+                "sample_818"
+            ]
+        },
+        "42": {
+            "count": 2,
+            "image_ids": [
+                "sample_243",
+                "sample_404"
+            ]
+        },
+        "43": {
+            "count": 2,
+            "image_ids": [
+                "sample_253",
+                "sample_254"
+            ]
+        },
+        "44": {
+            "count": 1,
+            "image_ids": [
+                "sample_267"
+            ]
+        },
+        "45": {
+            "count": 1,
+            "image_ids": [
+                "sample_269"
+            ]
+        },
+        "46": {
+            "count": 2,
+            "image_ids": [
+                "sample_274",
+                "sample_626"
+            ]
+        },
+        "47": {
+            "count": 5,
+            "image_ids": [
+                "sample_280",
+                "sample_334",
+                "sample_350",
+                "sample_357",
+                "sample_396"
+            ]
+        },
+        "48": {
+            "count": 5,
+            "image_ids": [
+                "sample_281",
+                "sample_800",
+                "sample_837",
+                "sample_936",
+                "sample_977"
+            ]
+        },
+        "49": {
+            "count": 1,
+            "image_ids": [
+                "sample_283"
+            ]
+        },
+        "50": {
+            "count": 2,
+            "image_ids": [
+                "sample_292",
+                "sample_432"
+            ]
+        },
+        "51": {
+            "count": 1,
+            "image_ids": [
+                "sample_294"
+            ]
+        },
+        "52": {
+            "count": 1,
+            "image_ids": [
+                "sample_295"
+            ]
+        },
+        "53": {
+            "count": 1,
+            "image_ids": [
+                "sample_307"
+            ]
+        },
+        "54": {
+            "count": 2,
+            "image_ids": [
+                "sample_318",
+                "sample_583"
+            ]
+        },
+        "55": {
+            "count": 2,
+            "image_ids": [
+                "sample_325",
+                "sample_729"
+            ]
+        },
+        "56": {
+            "count": 1,
+            "image_ids": [
+                "sample_331"
+            ]
+        },
+        "57": {
+            "count": 2,
+            "image_ids": [
+                "sample_333",
+                "sample_356"
+            ]
+        },
+        "58": {
+            "count": 1,
+            "image_ids": [
+                "sample_335"
+            ]
+        },
+        "59": {
+            "count": 2,
+            "image_ids": [
+                "sample_342",
+                "sample_372"
+            ]
+        },
+        "60": {
+            "count": 2,
+            "image_ids": [
+                "sample_344",
+                "sample_419"
+            ]
+        },
+        "61": {
+            "count": 1,
+            "image_ids": [
+                "sample_345"
+            ]
+        },
+        "62": {
+            "count": 3,
+            "image_ids": [
+                "sample_348",
+                "sample_405",
+                "sample_971"
+            ]
+        },
+        "63": {
+            "count": 1,
+            "image_ids": [
+                "sample_353"
+            ]
+        },
+        "64": {
+            "count": 1,
+            "image_ids": [
+                "sample_362"
+            ]
+        },
+        "65": {
+            "count": 4,
+            "image_ids": [
+                "sample_367",
+                "sample_654",
+                "sample_756",
+                "sample_870"
+            ]
+        },
+        "66": {
+            "count": 1,
+            "image_ids": [
+                "sample_373"
+            ]
+        },
+        "67": {
+            "count": 1,
+            "image_ids": [
+                "sample_380"
+            ]
+        },
+        "68": {
+            "count": 2,
+            "image_ids": [
+                "sample_382",
+                "sample_386"
+            ]
+        },
+        "69": {
+            "count": 4,
+            "image_ids": [
+                "sample_385",
+                "sample_477",
+                "sample_807",
+                "sample_816"
+            ]
+        },
+        "70": {
+            "count": 1,
+            "image_ids": [
+                "sample_387"
+            ]
+        },
+        "71": {
+            "count": 1,
+            "image_ids": [
+                "sample_392"
+            ]
+        },
+        "72": {
+            "count": 1,
+            "image_ids": [
+                "sample_393"
+            ]
+        },
+        "73": {
+            "count": 1,
+            "image_ids": [
+                "sample_395"
+            ]
+        },
+        "74": {
+            "count": 4,
+            "image_ids": [
+                "sample_412",
+                "sample_649",
+                "sample_861",
+                "sample_960"
+            ]
+        },
+        "75": {
+            "count": 2,
+            "image_ids": [
+                "sample_426",
+                "sample_840"
+            ]
+        },
+        "76": {
+            "count": 1,
+            "image_ids": [
+                "sample_447"
+            ]
+        },
+        "77": {
+            "count": 2,
+            "image_ids": [
+                "sample_448",
+                "sample_573"
+            ]
+        },
+        "78": {
+            "count": 3,
+            "image_ids": [
+                "sample_458",
+                "sample_520",
+                "sample_681"
+            ]
+        },
+        "79": {
+            "count": 1,
+            "image_ids": [
+                "sample_467"
+            ]
+        },
+        "80": {
+            "count": 1,
+            "image_ids": [
+                "sample_488"
+            ]
+        },
+        "81": {
+            "count": 3,
+            "image_ids": [
+                "sample_492",
+                "sample_747",
+                "sample_799"
+            ]
+        },
+        "82": {
+            "count": 1,
+            "image_ids": [
+                "sample_495"
+            ]
+        },
+        "83": {
+            "count": 1,
+            "image_ids": [
+                "sample_501"
+            ]
+        },
+        "84": {
+            "count": 5,
+            "image_ids": [
+                "sample_502",
+                "sample_630",
+                "sample_711",
+                "sample_724",
+                "sample_934"
+            ]
+        },
+        "85": {
+            "count": 1,
+            "image_ids": [
+                "sample_503"
+            ]
+        },
+        "86": {
+            "count": 1,
+            "image_ids": [
+                "sample_519"
+            ]
+        },
+        "87": {
+            "count": 4,
+            "image_ids": [
+                "sample_525",
+                "sample_629",
+                "sample_806",
+                "sample_948"
+            ]
+        },
+        "88": {
+            "count": 1,
+            "image_ids": [
+                "sample_526"
+            ]
+        },
+        "89": {
+            "count": 1,
+            "image_ids": [
+                "sample_527"
+            ]
+        },
+        "90": {
+            "count": 1,
+            "image_ids": [
+                "sample_532"
+            ]
+        },
+        "91": {
+            "count": 1,
+            "image_ids": [
+                "sample_539"
+            ]
+        },
+        "92": {
+            "count": 1,
+            "image_ids": [
+                "sample_546"
+            ]
+        },
+        "93": {
+            "count": 1,
+            "image_ids": [
+                "sample_554"
+            ]
+        },
+        "94": {
+            "count": 2,
+            "image_ids": [
+                "sample_558",
+                "sample_839"
+            ]
+        },
+        "95": {
+            "count": 1,
+            "image_ids": [
+                "sample_566"
+            ]
+        },
+        "96": {
+            "count": 1,
+            "image_ids": [
+                "sample_571"
+            ]
+        },
+        "97": {
+            "count": 3,
+            "image_ids": [
+                "sample_578",
+                "sample_838",
+                "sample_959"
+            ]
+        },
+        "98": {
+            "count": 1,
+            "image_ids": [
+                "sample_587"
+            ]
+        },
+        "99": {
+            "count": 1,
+            "image_ids": [
+                "sample_594"
+            ]
+        },
+        "100": {
+            "count": 1,
+            "image_ids": [
+                "sample_599"
+            ]
+        },
+        "101": {
+            "count": 1,
+            "image_ids": [
+                "sample_603"
+            ]
+        },
+        "102": {
+            "count": 1,
+            "image_ids": [
+                "sample_604"
+            ]
+        },
+        "103": {
+            "count": 1,
+            "image_ids": [
+                "sample_612"
+            ]
+        },
+        "104": {
+            "count": 1,
+            "image_ids": [
+                "sample_627"
+            ]
+        },
+        "105": {
+            "count": 1,
+            "image_ids": [
+                "sample_646"
+            ]
+        },
+        "106": {
+            "count": 1,
+            "image_ids": [
+                "sample_653"
+            ]
+        },
+        "107": {
+            "count": 1,
+            "image_ids": [
+                "sample_656"
+            ]
+        },
+        "108": {
+            "count": 1,
+            "image_ids": [
+                "sample_669"
+            ]
+        },
+        "109": {
+            "count": 1,
+            "image_ids": [
+                "sample_672"
+            ]
+        },
+        "110": {
+            "count": 1,
+            "image_ids": [
+                "sample_680"
+            ]
+        },
+        "111": {
+            "count": 1,
+            "image_ids": [
+                "sample_693"
+            ]
+        },
+        "112": {
+            "count": 2,
+            "image_ids": [
+                "sample_710",
+                "sample_897"
+            ]
+        },
+        "113": {
+            "count": 1,
+            "image_ids": [
+                "sample_716"
+            ]
+        },
+        "114": {
+            "count": 1,
+            "image_ids": [
+                "sample_720"
+            ]
+        },
+        "115": {
+            "count": 1,
+            "image_ids": [
+                "sample_728"
+            ]
+        },
+        "116": {
+            "count": 2,
+            "image_ids": [
+                "sample_730",
+                "sample_830"
+            ]
+        },
+        "117": {
+            "count": 1,
+            "image_ids": [
+                "sample_733"
+            ]
+        },
+        "118": {
+            "count": 1,
+            "image_ids": [
+                "sample_745"
+            ]
+        },
+        "119": {
+            "count": 1,
+            "image_ids": [
+                "sample_754"
+            ]
+        },
+        "120": {
+            "count": 1,
+            "image_ids": [
+                "sample_772"
+            ]
+        },
+        "121": {
+            "count": 1,
+            "image_ids": [
+                "sample_773"
+            ]
+        },
+        "122": {
+            "count": 2,
+            "image_ids": [
+                "sample_775",
+                "sample_877"
+            ]
+        },
+        "123": {
+            "count": 1,
+            "image_ids": [
+                "sample_787"
+            ]
+        },
+        "124": {
+            "count": 1,
+            "image_ids": [
+                "sample_788"
+            ]
+        },
+        "125": {
+            "count": 1,
+            "image_ids": [
+                "sample_797"
+            ]
+        },
+        "126": {
+            "count": 1,
+            "image_ids": [
+                "sample_798"
+            ]
+        },
+        "127": {
+            "count": 1,
+            "image_ids": [
+                "sample_804"
+            ]
+        },
+        "128": {
+            "count": 1,
+            "image_ids": [
+                "sample_805"
+            ]
+        },
+        "129": {
+            "count": 1,
+            "image_ids": [
+                "sample_809"
+            ]
+        },
+        "130": {
+            "count": 1,
+            "image_ids": [
+                "sample_810"
+            ]
+        },
+        "131": {
+            "count": 1,
+            "image_ids": [
+                "sample_817"
+            ]
+        },
+        "132": {
+            "count": 1,
+            "image_ids": [
+                "sample_836"
+            ]
+        },
+        "133": {
+            "count": 1,
+            "image_ids": [
+                "sample_856"
+            ]
+        },
+        "134": {
+            "count": 2,
+            "image_ids": [
+                "sample_860",
+                "sample_984"
+            ]
+        },
+        "135": {
+            "count": 1,
+            "image_ids": [
+                "sample_893"
+            ]
+        },
+        "136": {
+            "count": 1,
+            "image_ids": [
+                "sample_898"
+            ]
+        },
+        "137": {
+            "count": 1,
+            "image_ids": [
+                "sample_915"
+            ]
+        },
+        "138": {
+            "count": 1,
+            "image_ids": [
+                "sample_933"
+            ]
+        },
+        "139": {
+            "count": 1,
+            "image_ids": [
+                "sample_935"
+            ]
+        },
+        "140": {
+            "count": 1,
+            "image_ids": [
+                "sample_941"
+            ]
+        },
+        "141": {
+            "count": 1,
+            "image_ids": [
+                "sample_969"
+            ]
+        },
+        "142": {
+            "count": 1,
+            "image_ids": [
+                "sample_987"
+            ]
+        },
+        "143": {
+            "count": 1,
+            "image_ids": [
+                "sample_993"
+            ]
+        },
+        "144": {
+            "count": 1,
+            "image_ids": [
+                "sample_998"
+            ]
+        }
+    }
+}

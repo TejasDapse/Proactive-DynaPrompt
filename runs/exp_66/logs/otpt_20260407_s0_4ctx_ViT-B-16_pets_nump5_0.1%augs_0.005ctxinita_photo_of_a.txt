@@ -1,0 +1,707 @@
+evaluating: pets
+number of test samples: 500
+[0, 1, 2, 3, 4]
+Sample: 0, Time: 6.785s, Raw entropy: 1.39, Adapted entropy: 1.74, Raw pred: 23, Adapted pred: 32, Target: 7
+[0, 1, 2, 3, 4]
+Sample: 1, Time: 5.589s, Raw entropy: 0.45, Adapted entropy: 0.07, Raw pred: 30, Adapted pred: 30, Target: 30
+[1, 2, 3, 4, 0, 5]
+Sample: 2, Time: 4.007s, Raw entropy: 0.10, Adapted entropy: 0.10, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 3, Time: 2.470s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+[1, 2, 3, 4, 0, 5]
+Sample: 4, Time: 3.916s, Raw entropy: 1.42, Adapted entropy: 1.42, Raw pred: 23, Adapted pred: 23, Target: 23
+[1, 2, 3, 4, 0, 5]
+Sample: 5, Time: 5.580s, Raw entropy: 1.38, Adapted entropy: 1.09, Raw pred: 20, Adapted pred: 20, Target: 20
+[1, 2, 3, 4, 0, 5]
+Sample: 6, Time: 3.904s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 19, Adapted pred: 19, Target: 19
+[1, 2, 3, 4, 0, 5]
+Sample: 7, Time: 5.541s, Raw entropy: 1.38, Adapted entropy: 1.01, Raw pred: 16, Adapted pred: 16, Target: 35
+[1, 2, 3, 4, 0, 5]
+Sample: 8, Time: 3.902s, Raw entropy: 0.37, Adapted entropy: 0.37, Raw pred: 34, Adapted pred: 34, Target: 34
+[1, 2, 3, 4, 0, 5]
+Sample: 9, Time: 5.522s, Raw entropy: 1.64, Adapted entropy: 1.15, Raw pred: 11, Adapted pred: 11, Target: 7
+[1, 2, 3, 4, 0, 5]
+Sample: 10, Time: 5.557s, Raw entropy: 0.53, Adapted entropy: 0.21, Raw pred: 16, Adapted pred: 16, Target: 16
+[1, 2, 3, 4, 0, 5]
+Sample: 11, Time: 5.527s, Raw entropy: 1.17, Adapted entropy: 0.60, Raw pred: 12, Adapted pred: 19, Target: 22
+[1, 2, 3, 4, 0, 5]
+Sample: 12, Time: 3.915s, Raw entropy: 0.68, Adapted entropy: 0.68, Raw pred: 15, Adapted pred: 15, Target: 15
+[1, 2, 3, 4, 0, 5]
+Sample: 13, Time: 3.924s, Raw entropy: 0.67, Adapted entropy: 0.67, Raw pred: 20, Adapted pred: 20, Target: 20
+[1, 2, 3, 4, 0, 5]
+Sample: 14, Time: 5.596s, Raw entropy: 1.25, Adapted entropy: 1.18, Raw pred: 6, Adapted pred: 6, Target: 32
+[1, 2, 3, 4, 0, 5]
+Sample: 15, Time: 5.537s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 16, Time: 5.544s, Raw entropy: 0.18, Adapted entropy: 0.11, Raw pred: 34, Adapted pred: 34, Target: 34
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 17, Time: 5.543s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 19, Adapted pred: 19, Target: 19
+[3, 4, 0, 5, 1, 6, 2, 7]
+Sample: 18, Time: 3.906s, Raw entropy: 0.42, Adapted entropy: 0.04, Raw pred: 27, Adapted pred: 27, Target: 27
+Sample: 19, Time: 2.468s, Raw entropy: 0.07, Adapted entropy: 0.04, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 20, Time: 2.485s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 21, Time: 2.509s, Raw entropy: 0.56, Adapted entropy: 0.04, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 22, Time: 3.916s, Raw entropy: 0.81, Adapted entropy: 0.44, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 23, Time: 3.913s, Raw entropy: 0.74, Adapted entropy: 0.74, Raw pred: 6, Adapted pred: 6, Target: 26
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 24, Time: 4.165s, Raw entropy: 0.59, Adapted entropy: 0.59, Raw pred: 3, Adapted pred: 3, Target: 4
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 25, Time: 3.903s, Raw entropy: 0.79, Adapted entropy: 0.79, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 26, Time: 4.316s, Raw entropy: 2.06, Adapted entropy: 1.65, Raw pred: 27, Adapted pred: 27, Target: 7
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 27, Time: 5.622s, Raw entropy: 0.48, Adapted entropy: 0.11, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 28, Time: 4.005s, Raw entropy: 0.23, Adapted entropy: 0.23, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 29, Time: 3.964s, Raw entropy: 0.92, Adapted entropy: 0.92, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 1, 6, 2, 7, 5, 0]
+Sample: 30, Time: 5.676s, Raw entropy: 0.03, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+[3, 4, 6, 2, 7, 5, 0, 1, 8]
+Sample: 31, Time: 4.048s, Raw entropy: 0.53, Adapted entropy: 0.07, Raw pred: 5, Adapted pred: 5, Target: 5
+[3, 4, 2, 7, 5, 0, 1, 8, 6]
+Sample: 32, Time: 3.985s, Raw entropy: 0.58, Adapted entropy: 0.19, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 7, 5, 0, 1, 8, 6]
+Sample: 33, Time: 4.051s, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 34, Time: 4.828s, Raw entropy: 0.69, Adapted entropy: 0.22, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 2, 7, 5, 0, 1, 8, 6]
+Sample: 35, Time: 4.321s, Raw entropy: 0.13, Adapted entropy: 0.13, Raw pred: 10, Adapted pred: 10, Target: 10
+[3, 4, 2, 7, 5, 0, 1, 8, 6]
+Sample: 36, Time: 6.362s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 5, 0, 1, 8, 6, 7, 9]
+Sample: 37, Time: 4.385s, Raw entropy: 0.78, Adapted entropy: 0.55, Raw pred: 2, Adapted pred: 34, Target: 2
+[3, 4, 2, 5, 0, 1, 8, 6, 7, 9]
+Sample: 38, Time: 6.691s, Raw entropy: 0.69, Adapted entropy: 0.23, Raw pred: 23, Adapted pred: 23, Target: 23
+[3, 4, 2, 5, 0, 1, 8, 6, 7, 9]
+Sample: 39, Time: 6.823s, Raw entropy: 0.56, Adapted entropy: 0.19, Raw pred: 6, Adapted pred: 6, Target: 6
+[3, 4, 2, 5, 0, 1, 8, 6, 7, 9]
+Sample: 40, Time: 4.740s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 25, Adapted pred: 25, Target: 25
+[3, 4, 2, 0, 1, 8, 6, 9, 7, 5]
+Sample: 41, Time: 7.096s, Raw entropy: 1.11, Adapted entropy: 0.62, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 42, Time: 3.164s, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 43, Time: 3.173s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 44, Time: 5.696s, Raw entropy: 0.32, Adapted entropy: 0.20, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 45, Time: 3.264s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 18, Adapted pred: 18, Target: 18
+[3, 4, 2, 0, 1, 8, 6, 9, 7, 5]
+Sample: 46, Time: 4.975s, Raw entropy: 0.78, Adapted entropy: 0.78, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 47, Time: 3.354s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 0, Target: 0
+[3, 4, 2, 0, 1, 8, 6, 9, 7, 5]
+Sample: 48, Time: 4.962s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 30, Adapted pred: 30, Target: 30
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 49, Time: 5.070s, Raw entropy: 0.48, Adapted entropy: 0.48, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 50, Time: 3.360s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 51, Time: 7.280s, Raw entropy: 0.57, Adapted entropy: 0.11, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 52, Time: 5.216s, Raw entropy: 0.29, Adapted entropy: 0.29, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 53, Time: 7.391s, Raw entropy: 0.28, Adapted entropy: 0.22, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 54, Time: 7.306s, Raw entropy: 1.72, Adapted entropy: 1.43, Raw pred: 0, Adapted pred: 9, Target: 7
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 55, Time: 7.275s, Raw entropy: 1.05, Adapted entropy: 0.78, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8]
+Sample: 56, Time: 4.910s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 57, Time: 5.836s, Raw entropy: 0.45, Adapted entropy: 0.09, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 6, 7, 5, 9, 8, 10]
+Sample: 58, Time: 4.914s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 7, 5, 9, 8, 10, 6]
+Sample: 59, Time: 4.978s, Raw entropy: 0.65, Adapted entropy: 0.39, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 7, 5, 9, 8, 10, 6]
+Sample: 60, Time: 4.968s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 2, 0, 1, 7, 5, 9, 8, 10, 6]
+Sample: 61, Time: 5.248s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 17, Adapted pred: 17, Target: 17
+[3, 4, 2, 0, 1, 7, 5, 9, 8, 10, 6]
+Sample: 62, Time: 5.282s, Raw entropy: 1.57, Adapted entropy: 1.56, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 7, 5, 9, 8, 10, 6]
+Sample: 63, Time: 4.994s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 17, Adapted pred: 17, Target: 17
+[3, 4, 2, 0, 1, 5, 9, 8, 10, 6, 7]
+Sample: 64, Time: 7.625s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 5
+[3, 4, 2, 0, 1, 9, 8, 10, 6, 7, 5, 11]
+Sample: 65, Time: 8.631s, Raw entropy: 1.10, Adapted entropy: 1.04, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 9, 8, 10, 6, 7, 5, 11]
+Sample: 66, Time: 5.713s, Raw entropy: 1.11, Adapted entropy: 1.11, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 67, Time: 3.753s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 30, Adapted pred: 30, Target: 30
+[3, 4, 2, 0, 1, 9, 8, 10, 6, 7, 5, 11]
+Sample: 68, Time: 4.968s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 69, Time: 5.779s, Raw entropy: 0.22, Adapted entropy: 0.09, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 2, 0, 1, 9, 8, 10, 6, 7, 5, 11, 12]
+Sample: 70, Time: 7.306s, Raw entropy: 0.03, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 71, Time: 5.693s, Raw entropy: 0.66, Adapted entropy: 0.15, Raw pred: 27, Adapted pred: 27, Target: 27
+Sample: 72, Time: 3.169s, Raw entropy: 0.33, Adapted entropy: 0.33, Raw pred: 9, Adapted pred: 9, Target: 23
+[3, 4, 2, 0, 1, 8, 10, 6, 7, 5, 11, 12, 9, 13]
+Sample: 73, Time: 4.915s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 74, Time: 3.323s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 75, Time: 3.249s, Raw entropy: 0.19, Adapted entropy: 0.19, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 2, 0, 1, 8, 10, 6, 7, 5, 11, 12, 9, 13]
+Sample: 76, Time: 4.910s, Raw entropy: 0.57, Adapted entropy: 0.56, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 77, Time: 5.856s, Raw entropy: 0.18, Adapted entropy: 0.04, Raw pred: 22, Adapted pred: 22, Target: 22
+Sample: 78, Time: 3.229s, Raw entropy: 0.18, Adapted entropy: 0.02, Raw pred: 5, Adapted pred: 5, Target: 5
+[3, 4, 2, 0, 1, 8, 10, 6, 7, 5, 11, 12, 9, 13, 14]
+Sample: 79, Time: 4.900s, Raw entropy: 0.20, Adapted entropy: 0.07, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 10, 6, 7, 5, 11, 12, 9, 13, 14, 8]
+Sample: 80, Time: 5.021s, Raw entropy: 0.07, Adapted entropy: 0.02, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 6, 5, 11, 12, 9, 13, 14, 8, 7, 10]
+Sample: 81, Time: 7.399s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 82, Time: 3.288s, Raw entropy: 0.16, Adapted entropy: 0.09, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 83, Time: 3.246s, Raw entropy: 0.10, Adapted entropy: 0.01, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 84, Time: 3.245s, Raw entropy: 0.02, Adapted entropy: 0.01, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 6, 11, 12, 9, 13, 14, 8, 7, 10, 5, 15]
+Sample: 85, Time: 4.958s, Raw entropy: 0.65, Adapted entropy: 0.15, Raw pred: 6, Adapted pred: 6, Target: 26
+[3, 4, 2, 0, 1, 6, 11, 12, 9, 13, 14, 8, 7, 10, 5, 15]
+Sample: 86, Time: 5.033s, Raw entropy: 0.07, Adapted entropy: 0.07, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 87, Time: 5.867s, Raw entropy: 0.27, Adapted entropy: 0.04, Raw pred: 17, Adapted pred: 17, Target: 17
+[3, 4, 2, 0, 1, 6, 11, 12, 13, 14, 8, 10, 5, 15, 7, 9, 16]
+Sample: 88, Time: 4.993s, Raw entropy: 0.54, Adapted entropy: 0.10, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 89, Time: 5.897s, Raw entropy: 0.80, Adapted entropy: 0.27, Raw pred: 6, Adapted pred: 6, Target: 6
+[3, 4, 2, 0, 1, 6, 11, 12, 13, 8, 10, 5, 15, 7, 9, 16, 14]
+Sample: 90, Time: 4.976s, Raw entropy: 0.02, Adapted entropy: 0.01, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 6, 11, 12, 13, 8, 5, 15, 7, 9, 16, 14, 10]
+Sample: 91, Time: 5.131s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 92, Time: 6.054s, Raw entropy: 0.27, Adapted entropy: 0.08, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 93, Time: 3.281s, Raw entropy: 0.51, Adapted entropy: 0.06, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 94, Time: 3.279s, Raw entropy: 0.81, Adapted entropy: 0.18, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 95, Time: 3.274s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 11, 12, 13, 8, 5, 15, 9, 16, 14, 10, 7, 6, 17]
+Sample: 96, Time: 4.995s, Raw entropy: 0.61, Adapted entropy: 0.61, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 97, Time: 3.402s, Raw entropy: 0.27, Adapted entropy: 0.26, Raw pred: 1, Adapted pred: 1, Target: 1
+[3, 4, 2, 0, 1, 11, 12, 13, 8, 5, 15, 9, 16, 14, 10, 7, 6, 17]
+Sample: 98, Time: 4.945s, Raw entropy: 0.75, Adapted entropy: 0.75, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 99, Time: 3.395s, Raw entropy: 0.33, Adapted entropy: 0.33, Raw pred: 22, Adapted pred: 22, Target: 22
+[3, 4, 2, 0, 1, 11, 12, 13, 8, 5, 15, 9, 16, 14, 10, 7, 6, 17]
+Sample: 100, Time: 4.980s, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 101, Time: 6.089s, Raw entropy: 1.73, Adapted entropy: 1.41, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 102, Time: 3.350s, Raw entropy: 0.09, Adapted entropy: 0.09, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 103, Time: 5.901s, Raw entropy: 0.41, Adapted entropy: 0.06, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 11, 13, 5, 15, 9, 16, 14, 10, 7, 6, 17, 8, 12, 18]
+Sample: 104, Time: 5.422s, Raw entropy: 2.05, Adapted entropy: 1.09, Raw pred: 20, Adapted pred: 20, Target: 7
+[3, 4, 2, 0, 1, 11, 13, 5, 15, 9, 16, 14, 10, 7, 6, 17, 8, 12, 18]
+Sample: 105, Time: 7.679s, Raw entropy: 0.02, Adapted entropy: 0.01, Raw pred: 18, Adapted pred: 18, Target: 18
+[3, 4, 2, 0, 1, 11, 13, 15, 9, 16, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19]
+Sample: 106, Time: 7.422s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 11, 13, 15, 9, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19, 16, 20]
+Sample: 107, Time: 5.033s, Raw entropy: 0.65, Adapted entropy: 0.29, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 11, 13, 15, 9, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19, 16, 20]
+Sample: 108, Time: 5.359s, Raw entropy: 0.86, Adapted entropy: 0.86, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 109, Time: 6.015s, Raw entropy: 1.10, Adapted entropy: 0.70, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 110, Time: 7.486s, Raw entropy: 0.35, Adapted entropy: 0.08, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 111, Time: 6.469s, Raw entropy: 0.82, Adapted entropy: 0.50, Raw pred: 26, Adapted pred: 6, Target: 26
+Sample: 112, Time: 3.339s, Raw entropy: 0.19, Adapted entropy: 0.19, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 11, 13, 15, 9, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19, 16, 20, 21]
+Sample: 113, Time: 5.308s, Raw entropy: 1.41, Adapted entropy: 1.41, Raw pred: 28, Adapted pred: 28, Target: 1
+[3, 4, 2, 0, 1, 11, 13, 15, 9, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19, 16, 20, 21]
+Sample: 114, Time: 7.728s, Raw entropy: 0.08, Adapted entropy: 0.03, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 115, Time: 3.363s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 7, 6, 17, 8, 12, 18, 5, 19, 16, 20, 21, 9, 22]
+Sample: 116, Time: 5.065s, Raw entropy: 0.08, Adapted entropy: 0.02, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 6, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 8, 7]
+Sample: 117, Time: 5.155s, Raw entropy: 0.10, Adapted entropy: 0.01, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 118, Time: 3.444s, Raw entropy: 0.09, Adapted entropy: 0.01, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6]
+Sample: 119, Time: 4.985s, Raw entropy: 0.65, Adapted entropy: 0.40, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 120, Time: 3.432s, Raw entropy: 0.14, Adapted entropy: 0.14, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 121, Time: 3.284s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 0, Adapted pred: 0, Target: 0
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6]
+Sample: 122, Time: 5.017s, Raw entropy: 0.11, Adapted entropy: 0.11, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 123, Time: 3.393s, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 28, Adapted pred: 28, Target: 28
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6]
+Sample: 124, Time: 4.999s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 125, Time: 3.397s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6]
+Sample: 126, Time: 5.002s, Raw entropy: 0.83, Adapted entropy: 0.83, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 127, Time: 3.393s, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 128, Time: 5.905s, Raw entropy: 0.16, Adapted entropy: 0.04, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 129, Time: 3.411s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 130, Time: 3.441s, Raw entropy: 0.91, Adapted entropy: 0.15, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23]
+Sample: 131, Time: 5.399s, Raw entropy: 0.61, Adapted entropy: 0.61, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 132, Time: 6.603s, Raw entropy: 0.59, Adapted entropy: 0.15, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 133, Time: 3.427s, Raw entropy: 0.40, Adapted entropy: 0.40, Raw pred: 18, Adapted pred: 18, Target: 19
+Sample: 134, Time: 3.536s, Raw entropy: 0.09, Adapted entropy: 0.09, Raw pred: 21, Adapted pred: 21, Target: 21
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23]
+Sample: 135, Time: 5.739s, Raw entropy: 0.79, Adapted entropy: 0.78, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 136, Time: 6.867s, Raw entropy: 0.33, Adapted entropy: 0.05, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 137, Time: 3.344s, Raw entropy: 0.12, Adapted entropy: 0.02, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 138, Time: 3.489s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 139, Time: 5.877s, Raw entropy: 0.42, Adapted entropy: 0.18, Raw pred: 5, Adapted pred: 5, Target: 5
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24]
+Sample: 140, Time: 5.185s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 141, Time: 6.027s, Raw entropy: 1.00, Adapted entropy: 0.77, Raw pred: 26, Adapted pred: 26, Target: 26
+Sample: 142, Time: 3.265s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 5, Adapted pred: 5, Target: 5
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24]
+Sample: 143, Time: 5.087s, Raw entropy: 1.22, Adapted entropy: 1.23, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24]
+Sample: 144, Time: 5.373s, Raw entropy: 0.13, Adapted entropy: 0.13, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 145, Time: 3.486s, Raw entropy: 0.15, Adapted entropy: 0.14, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 11, 13, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24]
+Sample: 146, Time: 7.440s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 14, Adapted pred: 14, Target: 14
+[3, 4, 2, 0, 1, 11, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24, 13, 25]
+Sample: 147, Time: 5.009s, Raw entropy: 0.61, Adapted entropy: 0.12, Raw pred: 6, Adapted pred: 6, Target: 6
+[3, 4, 2, 0, 1, 11, 15, 14, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24, 13, 25]
+Sample: 148, Time: 7.591s, Raw entropy: 0.08, Adapted entropy: 0.00, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 149, Time: 3.271s, Raw entropy: 1.72, Adapted entropy: 0.32, Raw pred: 9, Adapted pred: 9, Target: 6
+Sample: 150, Time: 5.834s, Raw entropy: 0.98, Adapted entropy: 0.10, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 151, Time: 3.332s, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 152, Time: 3.288s, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 0, Adapted pred: 0, Target: 5
+Sample: 153, Time: 5.834s, Raw entropy: 1.13, Adapted entropy: 0.81, Raw pred: 23, Adapted pred: 23, Target: 20
+Sample: 154, Time: 3.362s, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 155, Time: 3.331s, Raw entropy: 0.06, Adapted entropy: 0.07, Raw pred: 10, Adapted pred: 10, Target: 10
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26]
+Sample: 156, Time: 5.623s, Raw entropy: 0.33, Adapted entropy: 0.33, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 157, Time: 6.161s, Raw entropy: 0.73, Adapted entropy: 0.66, Raw pred: 36, Adapted pred: 16, Target: 36
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 18, 5, 19, 16, 20, 21, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26]
+Sample: 158, Time: 5.358s, Raw entropy: 0.07, Adapted entropy: 0.07, Raw pred: 25, Adapted pred: 25, Target: 25
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 16, 20, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26, 5, 21, 18]
+Sample: 159, Time: 7.601s, Raw entropy: 0.35, Adapted entropy: 0.12, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 16, 20, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26, 5, 21, 18]
+Sample: 160, Time: 5.251s, Raw entropy: 0.96, Adapted entropy: 0.96, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 161, Time: 5.978s, Raw entropy: 1.86, Adapted entropy: 1.55, Raw pred: 9, Adapted pred: 9, Target: 7
+Sample: 162, Time: 3.340s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 16, 20, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26, 5, 21, 18]
+Sample: 163, Time: 5.043s, Raw entropy: 0.18, Adapted entropy: 0.19, Raw pred: 19, Adapted pred: 19, Target: 22
+Sample: 164, Time: 6.002s, Raw entropy: 1.25, Adapted entropy: 1.46, Raw pred: 26, Adapted pred: 9, Target: 26
+Sample: 165, Time: 5.862s, Raw entropy: 0.55, Adapted entropy: 0.12, Raw pred: 6, Adapted pred: 6, Target: 32
+Sample: 166, Time: 3.324s, Raw entropy: 0.23, Adapted entropy: 0.23, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 16, 20, 9, 22, 7, 8, 6, 23, 24, 13, 25, 14, 26, 5, 21, 18]
+Sample: 167, Time: 5.053s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 168, Time: 3.425s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 169, Time: 3.299s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 170, Time: 3.373s, Raw entropy: 0.16, Adapted entropy: 0.16, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 20, 9, 22, 7, 8, 23, 24, 13, 25, 14, 26, 5, 21, 18, 6, 16]
+Sample: 171, Time: 7.988s, Raw entropy: 0.03, Adapted entropy: 0.26, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 20, 9, 22, 7, 8, 23, 24, 13, 25, 14, 26, 5, 21, 18, 6, 16]
+Sample: 172, Time: 5.443s, Raw entropy: 1.30, Adapted entropy: 1.30, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 173, Time: 3.473s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 174, Time: 5.986s, Raw entropy: 1.31, Adapted entropy: 0.50, Raw pred: 11, Adapted pred: 11, Target: 0
+Sample: 175, Time: 6.059s, Raw entropy: 0.37, Adapted entropy: 0.37, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 176, Time: 3.454s, Raw entropy: 0.14, Adapted entropy: 0.14, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 177, Time: 3.505s, Raw entropy: 0.21, Adapted entropy: 0.22, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 20, 9, 22, 7, 8, 23, 24, 13, 25, 14, 26, 5, 21, 18, 6, 16]
+Sample: 178, Time: 5.511s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 179, Time: 3.555s, Raw entropy: 0.27, Adapted entropy: 0.27, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 180, Time: 3.391s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 181, Time: 3.406s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 182, Time: 3.452s, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 183, Time: 6.142s, Raw entropy: 0.48, Adapted entropy: 0.06, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 184, Time: 3.532s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 20, 9, 22, 7, 8, 23, 24, 13, 25, 14, 26, 5, 21, 18, 6, 16, 27]
+Sample: 185, Time: 5.927s, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 186, Time: 3.803s, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 9, 22, 7, 8, 23, 13, 25, 14, 26, 5, 21, 18, 6, 16, 27, 24, 20]
+Sample: 187, Time: 5.556s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 188, Time: 3.920s, Raw entropy: 0.12, Adapted entropy: 0.14, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 189, Time: 3.530s, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 16, Adapted pred: 16, Target: 16
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 9, 22, 8, 23, 13, 25, 14, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7]
+Sample: 190, Time: 8.216s, Raw entropy: 0.55, Adapted entropy: 0.21, Raw pred: 34, Adapted pred: 34, Target: 2
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 9, 22, 8, 23, 13, 25, 14, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7]
+Sample: 191, Time: 5.411s, Raw entropy: 1.02, Adapted entropy: 1.02, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 192, Time: 3.755s, Raw entropy: 0.28, Adapted entropy: 0.28, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 193, Time: 3.652s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 194, Time: 3.588s, Raw entropy: 0.22, Adapted entropy: 0.21, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 195, Time: 6.413s, Raw entropy: 0.87, Adapted entropy: 0.74, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 196, Time: 3.654s, Raw entropy: 0.13, Adapted entropy: 0.14, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 197, Time: 3.663s, Raw entropy: 0.13, Adapted entropy: 0.13, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 198, Time: 6.634s, Raw entropy: 0.53, Adapted entropy: 0.09, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 199, Time: 3.649s, Raw entropy: 0.15, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+Test: [199/500]	Time  3.667 ( 4.890)	Acc@1 100.00 ( 86.00)	Acc@5 100.00 ( 96.50)
+Sample: 200, Time: 3.649s, Raw entropy: 0.16, Adapted entropy: 0.08, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 201, Time: 3.617s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 202, Time: 3.634s, Raw entropy: 0.16, Adapted entropy: 0.09, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 203, Time: 3.608s, Raw entropy: 0.25, Adapted entropy: 0.03, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 204, Time: 6.470s, Raw entropy: 0.77, Adapted entropy: 0.50, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 205, Time: 3.559s, Raw entropy: 0.21, Adapted entropy: 0.21, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 206, Time: 3.622s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 207, Time: 3.639s, Raw entropy: 0.12, Adapted entropy: 0.11, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 208, Time: 3.638s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 9, 22, 8, 23, 13, 25, 14, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28]
+Sample: 209, Time: 5.674s, Raw entropy: 1.05, Adapted entropy: 1.05, Raw pred: 16, Adapted pred: 16, Target: 35
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 19, 9, 22, 8, 23, 13, 25, 14, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28]
+Sample: 210, Time: 5.584s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 211, Time: 10.696s, Raw entropy: 0.73, Adapted entropy: 0.21, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 212, Time: 7.095s, Raw entropy: 0.90, Adapted entropy: 0.90, Raw pred: 9, Adapted pred: 9, Target: 23
+Sample: 213, Time: 3.778s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 22, Adapted pred: 22, Target: 22
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 214, Time: 5.712s, Raw entropy: 0.19, Adapted entropy: 0.19, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 215, Time: 3.720s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 216, Time: 6.332s, Raw entropy: 1.09, Adapted entropy: 0.76, Raw pred: 11, Adapted pred: 11, Target: 11
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 217, Time: 5.440s, Raw entropy: 0.21, Adapted entropy: 0.21, Raw pred: 19, Adapted pred: 19, Target: 19
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 218, Time: 8.300s, Raw entropy: 0.77, Adapted entropy: 0.71, Raw pred: 32, Adapted pred: 32, Target: 32
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 6, 16, 27, 24, 20, 21, 7, 28, 14, 19]
+Sample: 219, Time: 8.062s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 220, Time: 3.555s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 221, Time: 6.345s, Raw entropy: 1.02, Adapted entropy: 0.58, Raw pred: 6, Adapted pred: 6, Target: 26
+Sample: 222, Time: 3.543s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29]
+Sample: 223, Time: 5.490s, Raw entropy: 1.88, Adapted entropy: 1.88, Raw pred: 23, Adapted pred: 23, Target: 7
+Sample: 224, Time: 6.426s, Raw entropy: 0.93, Adapted entropy: 1.02, Raw pred: 5, Adapted pred: 0, Target: 5
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29]
+Sample: 225, Time: 8.101s, Raw entropy: 0.73, Adapted entropy: 0.62, Raw pred: 9, Adapted pred: 27, Target: 27
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29]
+Sample: 226, Time: 5.412s, Raw entropy: 0.81, Adapted entropy: 0.81, Raw pred: 13, Adapted pred: 13, Target: 12
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29]
+Sample: 227, Time: 5.717s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 228, Time: 3.674s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 229, Time: 6.334s, Raw entropy: 0.76, Adapted entropy: 0.16, Raw pred: 11, Adapted pred: 11, Target: 11
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 9, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29]
+Sample: 230, Time: 5.755s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 14, Adapted pred: 14, Target: 14
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9]
+Sample: 231, Time: 5.531s, Raw entropy: 0.72, Adapted entropy: 0.72, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 232, Time: 6.526s, Raw entropy: 0.70, Adapted entropy: 0.64, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 18, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9]
+Sample: 233, Time: 7.933s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 234, Time: 3.473s, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 235, Time: 3.530s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 236, Time: 8.345s, Raw entropy: 0.30, Adapted entropy: 0.06, Raw pred: 27, Adapted pred: 27, Target: 27
+Sample: 237, Time: 3.546s, Raw entropy: 0.17, Adapted entropy: 0.23, Raw pred: 6, Adapted pred: 6, Target: 6
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 238, Time: 5.817s, Raw entropy: 0.68, Adapted entropy: 0.68, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 239, Time: 4.937s, Raw entropy: 0.06, Adapted entropy: 0.07, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 240, Time: 3.466s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 241, Time: 6.373s, Raw entropy: 0.87, Adapted entropy: 0.20, Raw pred: 3, Adapted pred: 4, Target: 4
+Sample: 242, Time: 3.538s, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 243, Time: 3.561s, Raw entropy: 0.07, Adapted entropy: 0.09, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 244, Time: 3.580s, Raw entropy: 0.38, Adapted entropy: 0.39, Raw pred: 4, Adapted pred: 4, Target: 4
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 245, Time: 5.701s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 0, Adapted pred: 0, Target: 0
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 246, Time: 5.557s, Raw entropy: 0.12, Adapted entropy: 0.12, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 247, Time: 8.182s, Raw entropy: 1.38, Adapted entropy: 0.74, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 248, Time: 3.577s, Raw entropy: 0.07, Adapted entropy: 0.08, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 249, Time: 6.333s, Raw entropy: 0.85, Adapted entropy: 0.59, Raw pred: 16, Adapted pred: 16, Target: 16
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 250, Time: 5.430s, Raw entropy: 0.11, Adapted entropy: 0.11, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 251, Time: 5.466s, Raw entropy: 0.75, Adapted entropy: 0.74, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 252, Time: 3.690s, Raw entropy: 0.02, Adapted entropy: 0.03, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 253, Time: 3.533s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 254, Time: 3.573s, Raw entropy: 0.11, Adapted entropy: 0.09, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 255, Time: 5.401s, Raw entropy: 0.43, Adapted entropy: 0.43, Raw pred: 3, Adapted pred: 3, Target: 3
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 16, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31]
+Sample: 256, Time: 8.156s, Raw entropy: 0.16, Adapted entropy: 0.08, Raw pred: 18, Adapted pred: 18, Target: 18
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 23, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 6, 29, 9, 18, 30, 31, 16, 32]
+Sample: 257, Time: 5.340s, Raw entropy: 0.16, Adapted entropy: 0.02, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 258, Time: 3.684s, Raw entropy: 0.33, Adapted entropy: 0.12, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 259, Time: 3.525s, Raw entropy: 0.20, Adapted entropy: 0.20, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23]
+Sample: 260, Time: 5.388s, Raw entropy: 0.34, Adapted entropy: 0.34, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 261, Time: 3.688s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 262, Time: 6.372s, Raw entropy: 0.96, Adapted entropy: 0.42, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 263, Time: 3.632s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 264, Time: 3.581s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 22, Adapted pred: 22, Target: 22
+Sample: 265, Time: 3.580s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 266, Time: 3.577s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 13, Adapted pred: 13, Target: 13
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23]
+Sample: 267, Time: 5.518s, Raw entropy: 1.24, Adapted entropy: 1.24, Raw pred: 12, Adapted pred: 12, Target: 12
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23]
+Sample: 268, Time: 5.514s, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 269, Time: 3.677s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 270, Time: 3.548s, Raw entropy: 0.14, Adapted entropy: 0.13, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23]
+Sample: 271, Time: 5.382s, Raw entropy: 0.39, Adapted entropy: 0.39, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 272, Time: 3.660s, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 21, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23]
+Sample: 273, Time: 7.933s, Raw entropy: 0.16, Adapted entropy: 0.02, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 274, Time: 3.540s, Raw entropy: 0.05, Adapted entropy: 0.02, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 275, Time: 3.502s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 13, 25, 26, 5, 27, 24, 20, 7, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23, 21, 33]
+Sample: 276, Time: 5.348s, Raw entropy: 0.38, Adapted entropy: 0.06, Raw pred: 12, Adapted pred: 12, Target: 12
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 25, 26, 5, 27, 24, 20, 28, 14, 19, 29, 9, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13]
+Sample: 277, Time: 5.358s, Raw entropy: 0.04, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 278, Time: 3.637s, Raw entropy: 0.44, Adapted entropy: 0.05, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 279, Time: 3.507s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 280, Time: 6.439s, Raw entropy: 0.43, Adapted entropy: 0.26, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 281, Time: 3.546s, Raw entropy: 0.07, Adapted entropy: 0.08, Raw pred: 28, Adapted pred: 28, Target: 28
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25]
+Sample: 282, Time: 5.584s, Raw entropy: 0.24, Adapted entropy: 0.24, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 283, Time: 6.479s, Raw entropy: 0.93, Adapted entropy: 1.18, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 284, Time: 3.566s, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 285, Time: 6.371s, Raw entropy: 0.86, Adapted entropy: 0.04, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 286, Time: 6.463s, Raw entropy: 0.94, Adapted entropy: 0.52, Raw pred: 16, Adapted pred: 16, Target: 16
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 287, Time: 5.421s, Raw entropy: 0.27, Adapted entropy: 0.27, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 288, Time: 6.568s, Raw entropy: 1.16, Adapted entropy: 0.24, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 289, Time: 3.539s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 290, Time: 3.559s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 291, Time: 3.575s, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 292, Time: 3.578s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 293, Time: 3.613s, Raw entropy: 0.08, Adapted entropy: 0.09, Raw pred: 23, Adapted pred: 23, Target: 23
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 294, Time: 8.105s, Raw entropy: 0.60, Adapted entropy: 0.21, Raw pred: 1, Adapted pred: 1, Target: 1
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 295, Time: 5.261s, Raw entropy: 0.37, Adapted entropy: 0.37, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 296, Time: 5.443s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 297, Time: 3.666s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 18, Adapted pred: 18, Target: 18
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 298, Time: 5.511s, Raw entropy: 0.91, Adapted entropy: 0.91, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 299, Time: 3.911s, Raw entropy: 0.07, Adapted entropy: 0.08, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 300, Time: 3.490s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 301, Time: 3.508s, Raw entropy: 0.12, Adapted entropy: 0.11, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 302, Time: 6.318s, Raw entropy: 0.57, Adapted entropy: 0.11, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 303, Time: 5.430s, Raw entropy: 0.74, Adapted entropy: 0.74, Raw pred: 1, Adapted pred: 1, Target: 8
+Sample: 304, Time: 6.321s, Raw entropy: 0.73, Adapted entropy: 0.72, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 305, Time: 6.700s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 306, Time: 3.857s, Raw entropy: 0.09, Adapted entropy: 0.10, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 307, Time: 3.899s, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 308, Time: 3.489s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 309, Time: 8.197s, Raw entropy: 0.35, Adapted entropy: 0.29, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 310, Time: 6.212s, Raw entropy: 0.59, Adapted entropy: 0.19, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 311, Time: 6.185s, Raw entropy: 0.64, Adapted entropy: 0.22, Raw pred: 8, Adapted pred: 8, Target: 8
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 312, Time: 5.323s, Raw entropy: 0.72, Adapted entropy: 0.71, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 313, Time: 3.669s, Raw entropy: 0.11, Adapted entropy: 0.12, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 314, Time: 6.267s, Raw entropy: 1.11, Adapted entropy: 1.12, Raw pred: 5, Adapted pred: 0, Target: 5
+Sample: 315, Time: 6.159s, Raw entropy: 1.05, Adapted entropy: 0.24, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 316, Time: 3.515s, Raw entropy: 0.15, Adapted entropy: 0.15, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 317, Time: 3.627s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 318, Time: 8.000s, Raw entropy: 0.76, Adapted entropy: 0.68, Raw pred: 2, Adapted pred: 34, Target: 2
+Sample: 319, Time: 3.484s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 320, Time: 6.230s, Raw entropy: 0.82, Adapted entropy: 0.55, Raw pred: 0, Adapted pred: 0, Target: 5
+Sample: 321, Time: 3.503s, Raw entropy: 0.02, Adapted entropy: 0.03, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 322, Time: 3.497s, Raw entropy: 0.30, Adapted entropy: 0.30, Raw pred: 6, Adapted pred: 6, Target: 26
+Sample: 323, Time: 3.499s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 324, Time: 3.513s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 3, Adapted pred: 3, Target: 3
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 28, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34]
+Sample: 325, Time: 8.529s, Raw entropy: 0.29, Adapted entropy: 0.05, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 326, Time: 3.488s, Raw entropy: 0.18, Adapted entropy: 0.01, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 327, Time: 6.297s, Raw entropy: 1.10, Adapted entropy: 1.01, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 328, Time: 3.555s, Raw entropy: 0.09, Adapted entropy: 0.08, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 329, Time: 3.554s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 15, Adapted pred: 15, Target: 15
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35]
+Sample: 330, Time: 5.596s, Raw entropy: 0.20, Adapted entropy: 0.20, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 331, Time: 6.366s, Raw entropy: 0.65, Adapted entropy: 0.13, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 332, Time: 3.565s, Raw entropy: 0.19, Adapted entropy: 0.19, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 333, Time: 6.258s, Raw entropy: 0.60, Adapted entropy: 0.21, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 334, Time: 3.549s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 335, Time: 6.262s, Raw entropy: 1.34, Adapted entropy: 1.28, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 336, Time: 3.516s, Raw entropy: 0.14, Adapted entropy: 0.14, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 337, Time: 3.534s, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 6, Adapted pred: 6, Target: 6
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35]
+Sample: 338, Time: 5.357s, Raw entropy: 0.27, Adapted entropy: 0.27, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 339, Time: 6.385s, Raw entropy: 1.57, Adapted entropy: 1.73, Raw pred: 23, Adapted pred: 23, Target: 7
+Sample: 340, Time: 3.496s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35]
+Sample: 341, Time: 5.835s, Raw entropy: 0.97, Adapted entropy: 0.97, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 342, Time: 6.374s, Raw entropy: 1.18, Adapted entropy: 0.57, Raw pred: 26, Adapted pred: 6, Target: 26
+Sample: 343, Time: 3.573s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 344, Time: 7.653s, Raw entropy: 1.12, Adapted entropy: 0.60, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 345, Time: 6.303s, Raw entropy: 1.47, Adapted entropy: 1.13, Raw pred: 0, Adapted pred: 0, Target: 7
+Sample: 346, Time: 6.355s, Raw entropy: 0.50, Adapted entropy: 0.08, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 347, Time: 3.587s, Raw entropy: 0.06, Adapted entropy: 0.00, Raw pred: 10, Adapted pred: 10, Target: 10
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 348, Time: 5.545s, Raw entropy: 1.89, Adapted entropy: 2.06, Raw pred: 2, Adapted pred: 8, Target: 2
+Sample: 349, Time: 3.673s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 350, Time: 6.317s, Raw entropy: 0.92, Adapted entropy: 0.66, Raw pred: 2, Adapted pred: 34, Target: 1
+Sample: 351, Time: 3.759s, Raw entropy: 0.38, Adapted entropy: 0.38, Raw pred: 23, Adapted pred: 23, Target: 23
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 352, Time: 5.634s, Raw entropy: 0.65, Adapted entropy: 0.65, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 353, Time: 3.782s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 354, Time: 3.528s, Raw entropy: 0.13, Adapted entropy: 0.11, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 355, Time: 3.555s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 356, Time: 3.542s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 357, Time: 6.306s, Raw entropy: 0.92, Adapted entropy: 0.68, Raw pred: 26, Adapted pred: 6, Target: 26
+Sample: 358, Time: 3.842s, Raw entropy: 0.38, Adapted entropy: 0.39, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 359, Time: 8.210s, Raw entropy: 1.24, Adapted entropy: 0.38, Raw pred: 21, Adapted pred: 21, Target: 10
+Sample: 360, Time: 6.357s, Raw entropy: 1.27, Adapted entropy: 0.94, Raw pred: 20, Adapted pred: 6, Target: 20
+Sample: 361, Time: 3.507s, Raw entropy: 0.13, Adapted entropy: 0.12, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 362, Time: 3.515s, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 363, Time: 3.543s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 10, Adapted pred: 10, Target: 10
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 364, Time: 5.405s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 365, Time: 6.381s, Raw entropy: 1.12, Adapted entropy: 0.26, Raw pred: 26, Adapted pred: 26, Target: 26
+Sample: 366, Time: 3.535s, Raw entropy: 0.19, Adapted entropy: 0.20, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 367, Time: 3.536s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 368, Time: 3.481s, Raw entropy: 0.02, Adapted entropy: 0.03, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 369, Time: 6.336s, Raw entropy: 1.43, Adapted entropy: 0.26, Raw pred: 0, Adapted pred: 0, Target: 7
+Sample: 370, Time: 3.568s, Raw entropy: 0.12, Adapted entropy: 0.11, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 371, Time: 3.766s, Raw entropy: 0.00, Adapted entropy: 0.01, Raw pred: 12, Adapted pred: 12, Target: 12
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 372, Time: 8.174s, Raw entropy: 0.53, Adapted entropy: 0.19, Raw pred: 4, Adapted pred: 4, Target: 4
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 5, 27, 24, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36]
+Sample: 373, Time: 5.260s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 14, Adapted pred: 14, Target: 14
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5]
+Sample: 374, Time: 7.998s, Raw entropy: 0.39, Adapted entropy: 0.12, Raw pred: 21, Adapted pred: 21, Target: 21
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5]
+Sample: 375, Time: 5.317s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 376, Time: 3.619s, Raw entropy: 0.29, Adapted entropy: 0.29, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 377, Time: 6.246s, Raw entropy: 1.81, Adapted entropy: 1.46, Raw pred: 11, Adapted pred: 11, Target: 7
+[3, 4, 2, 0, 1, 11, 15, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 33, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5]
+Sample: 378, Time: 7.418s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 379, Time: 8.409s, Raw entropy: 0.54, Adapted entropy: 0.48, Raw pred: 16, Adapted pred: 16, Target: 16
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 380, Time: 9.605s, Raw entropy: 0.91, Adapted entropy: 0.71, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 381, Time: 6.340s, Raw entropy: 1.24, Adapted entropy: 0.98, Raw pred: 20, Adapted pred: 20, Target: 20
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 382, Time: 7.846s, Raw entropy: 1.69, Adapted entropy: 1.35, Raw pred: 0, Adapted pred: 27, Target: 7
+Sample: 383, Time: 3.493s, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 384, Time: 3.462s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 385, Time: 3.742s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 36, Adapted pred: 36, Target: 36
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 386, Time: 5.420s, Raw entropy: 0.78, Adapted entropy: 0.78, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 387, Time: 3.603s, Raw entropy: 0.34, Adapted entropy: 0.34, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 388, Time: 3.504s, Raw entropy: 0.36, Adapted entropy: 0.37, Raw pred: 29, Adapted pred: 29, Target: 29
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 389, Time: 7.782s, Raw entropy: 0.70, Adapted entropy: 0.24, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 390, Time: 6.151s, Raw entropy: 1.87, Adapted entropy: 1.41, Raw pred: 0, Adapted pred: 0, Target: 7
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 391, Time: 5.543s, Raw entropy: 0.50, Adapted entropy: 0.50, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 392, Time: 6.254s, Raw entropy: 1.71, Adapted entropy: 1.03, Raw pred: 27, Adapted pred: 0, Target: 7
+Sample: 393, Time: 6.136s, Raw entropy: 0.83, Adapted entropy: 0.44, Raw pred: 9, Adapted pred: 9, Target: 27
+Sample: 394, Time: 6.133s, Raw entropy: 0.60, Adapted entropy: 0.28, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 395, Time: 3.501s, Raw entropy: 0.00, Adapted entropy: 0.01, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 396, Time: 3.511s, Raw entropy: 0.08, Adapted entropy: 0.09, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 397, Time: 3.533s, Raw entropy: 0.25, Adapted entropy: 0.25, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 398, Time: 3.497s, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 399, Time: 3.474s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 22, Adapted pred: 22, Target: 22
+Test: [399/500]	Time  3.490 ( 4.991)	Acc@1 100.00 ( 85.75)	Acc@5 100.00 ( 96.25)
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 400, Time: 5.317s, Raw entropy: 0.70, Adapted entropy: 0.70, Raw pred: 32, Adapted pred: 32, Target: 32
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 401, Time: 5.438s, Raw entropy: 0.37, Adapted entropy: 0.37, Raw pred: 33, Adapted pred: 33, Target: 33
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 402, Time: 5.441s, Raw entropy: 0.19, Adapted entropy: 0.19, Raw pred: 22, Adapted pred: 22, Target: 22
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 403, Time: 8.232s, Raw entropy: 0.42, Adapted entropy: 0.36, Raw pred: 16, Adapted pred: 16, Target: 36
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 404, Time: 5.341s, Raw entropy: 0.42, Adapted entropy: 0.42, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 405, Time: 6.414s, Raw entropy: 1.24, Adapted entropy: 1.10, Raw pred: 23, Adapted pred: 9, Target: 23
+Sample: 406, Time: 6.353s, Raw entropy: 1.33, Adapted entropy: 0.47, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 407, Time: 6.301s, Raw entropy: 1.52, Adapted entropy: 1.27, Raw pred: 0, Adapted pred: 0, Target: 7
+Sample: 408, Time: 6.220s, Raw entropy: 0.57, Adapted entropy: 0.27, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 409, Time: 3.565s, Raw entropy: 0.21, Adapted entropy: 0.22, Raw pred: 1, Adapted pred: 1, Target: 1
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 410, Time: 7.943s, Raw entropy: 0.63, Adapted entropy: 0.21, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 411, Time: 3.508s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 412, Time: 3.513s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 413, Time: 3.523s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 3, Adapted pred: 3, Target: 3
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 414, Time: 5.646s, Raw entropy: 0.44, Adapted entropy: 0.44, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 415, Time: 3.619s, Raw entropy: 0.30, Adapted entropy: 0.30, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 416, Time: 3.531s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 417, Time: 3.770s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 418, Time: 3.619s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 419, Time: 3.580s, Raw entropy: 0.05, Adapted entropy: 0.07, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 420, Time: 6.408s, Raw entropy: 0.77, Adapted entropy: 0.72, Raw pred: 2, Adapted pred: 34, Target: 34
+Sample: 421, Time: 3.526s, Raw entropy: 0.00, Adapted entropy: 0.01, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 422, Time: 3.547s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 423, Time: 3.533s, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 424, Time: 5.651s, Raw entropy: 0.21, Adapted entropy: 0.22, Raw pred: 22, Adapted pred: 22, Target: 22
+Sample: 425, Time: 3.676s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 426, Time: 3.502s, Raw entropy: 0.01, Adapted entropy: 0.02, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 427, Time: 3.531s, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 428, Time: 3.518s, Raw entropy: 0.27, Adapted entropy: 0.28, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 14, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 7, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15]
+Sample: 429, Time: 5.915s, Raw entropy: 0.10, Adapted entropy: 0.10, Raw pred: 28, Adapted pred: 28, Target: 28
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14]
+Sample: 430, Time: 5.539s, Raw entropy: 0.43, Adapted entropy: 0.43, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 431, Time: 3.691s, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 432, Time: 6.314s, Raw entropy: 0.87, Adapted entropy: 0.45, Raw pred: 26, Adapted pred: 26, Target: 26
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14]
+Sample: 433, Time: 8.023s, Raw entropy: 0.77, Adapted entropy: 0.65, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 434, Time: 3.570s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 18, Adapted pred: 18, Target: 18
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14]
+Sample: 435, Time: 5.385s, Raw entropy: 0.24, Adapted entropy: 0.24, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 436, Time: 3.646s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 437, Time: 3.844s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 438, Time: 3.527s, Raw entropy: 0.27, Adapted entropy: 0.27, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 439, Time: 3.559s, Raw entropy: 0.01, Adapted entropy: 0.02, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 440, Time: 6.365s, Raw entropy: 0.99, Adapted entropy: 0.20, Raw pred: 6, Adapted pred: 6, Target: 26
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14]
+Sample: 441, Time: 5.366s, Raw entropy: 0.43, Adapted entropy: 0.43, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 442, Time: 6.556s, Raw entropy: 1.10, Adapted entropy: 0.69, Raw pred: 8, Adapted pred: 8, Target: 1
+Sample: 443, Time: 3.495s, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 444, Time: 6.327s, Raw entropy: 0.64, Adapted entropy: 0.70, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 445, Time: 6.323s, Raw entropy: 0.41, Adapted entropy: 0.09, Raw pred: 3, Adapted pred: 3, Target: 4
+Sample: 446, Time: 3.616s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 447, Time: 6.296s, Raw entropy: 0.71, Adapted entropy: 0.23, Raw pred: 6, Adapted pred: 6, Target: 26
+Sample: 448, Time: 3.591s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 449, Time: 3.602s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 450, Time: 4.414s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 33, Adapted pred: 33, Target: 33
+Sample: 451, Time: 4.873s, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 452, Time: 8.253s, Raw entropy: 0.57, Adapted entropy: 0.25, Raw pred: 11, Adapted pred: 11, Target: 5
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 453, Time: 6.856s, Raw entropy: 2.39, Adapted entropy: 2.39, Raw pred: 30, Adapted pred: 30, Target: 22
+Sample: 454, Time: 3.774s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 455, Time: 3.747s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 456, Time: 6.734s, Raw entropy: 1.03, Adapted entropy: 0.42, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 457, Time: 6.656s, Raw entropy: 0.88, Adapted entropy: 0.11, Raw pred: 23, Adapted pred: 23, Target: 23
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 458, Time: 5.745s, Raw entropy: 0.56, Adapted entropy: 0.55, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 459, Time: 6.740s, Raw entropy: 1.14, Adapted entropy: 0.37, Raw pred: 6, Adapted pred: 6, Target: 26
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 460, Time: 5.746s, Raw entropy: 0.40, Adapted entropy: 0.40, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 461, Time: 3.873s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 462, Time: 6.672s, Raw entropy: 0.58, Adapted entropy: 0.15, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 463, Time: 3.765s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 464, Time: 3.770s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 465, Time: 3.794s, Raw entropy: 0.05, Adapted entropy: 0.05, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 466, Time: 3.767s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 28, Adapted pred: 28, Target: 28
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 467, Time: 5.786s, Raw entropy: 0.73, Adapted entropy: 0.73, Raw pred: 2, Adapted pred: 2, Target: 34
+Sample: 468, Time: 6.773s, Raw entropy: 1.16, Adapted entropy: 0.90, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 469, Time: 6.707s, Raw entropy: 0.70, Adapted entropy: 0.66, Raw pred: 0, Adapted pred: 0, Target: 33
+Sample: 470, Time: 6.632s, Raw entropy: 1.78, Adapted entropy: 1.12, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 471, Time: 3.753s, Raw entropy: 0.32, Adapted entropy: 0.32, Raw pred: 27, Adapted pred: 27, Target: 27
+Sample: 472, Time: 3.733s, Raw entropy: 0.34, Adapted entropy: 0.34, Raw pred: 22, Adapted pred: 22, Target: 22
+Sample: 473, Time: 3.770s, Raw entropy: 0.16, Adapted entropy: 0.15, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 474, Time: 3.785s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 475, Time: 3.742s, Raw entropy: 0.09, Adapted entropy: 0.09, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 476, Time: 3.975s, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 24, Adapted pred: 24, Target: 24
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 477, Time: 6.126s, Raw entropy: 0.38, Adapted entropy: 0.38, Raw pred: 35, Adapted pred: 35, Target: 35
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 478, Time: 6.374s, Raw entropy: 0.75, Adapted entropy: 0.75, Raw pred: 34, Adapted pred: 34, Target: 34
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 479, Time: 8.675s, Raw entropy: 0.74, Adapted entropy: 0.16, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 480, Time: 6.751s, Raw entropy: 0.73, Adapted entropy: 0.30, Raw pred: 4, Adapted pred: 4, Target: 4
+Sample: 481, Time: 3.716s, Raw entropy: 0.07, Adapted entropy: 0.06, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 482, Time: 3.731s, Raw entropy: 0.10, Adapted entropy: 0.08, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 483, Time: 3.770s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 484, Time: 3.827s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 31, Adapted pred: 31, Target: 31
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 485, Time: 5.790s, Raw entropy: 1.19, Adapted entropy: 1.18, Raw pred: 35, Adapted pred: 35, Target: 35
+Sample: 486, Time: 6.847s, Raw entropy: 0.80, Adapted entropy: 0.43, Raw pred: 26, Adapted pred: 6, Target: 6
+Sample: 487, Time: 4.202s, Raw entropy: 0.31, Adapted entropy: 0.31, Raw pred: 11, Adapted pred: 11, Target: 11
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 488, Time: 8.505s, Raw entropy: 0.49, Adapted entropy: 0.31, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 489, Time: 3.770s, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 4, Adapted pred: 4, Target: 4
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 490, Time: 5.715s, Raw entropy: 0.63, Adapted entropy: 0.63, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 491, Time: 8.586s, Raw entropy: 0.73, Adapted entropy: 0.24, Raw pred: 19, Adapted pred: 22, Target: 22
+Sample: 492, Time: 6.633s, Raw entropy: 1.04, Adapted entropy: 0.19, Raw pred: 9, Adapted pred: 9, Target: 9
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 493, Time: 8.444s, Raw entropy: 0.69, Adapted entropy: 0.20, Raw pred: 2, Adapted pred: 2, Target: 2
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 494, Time: 5.806s, Raw entropy: 0.15, Adapted entropy: 0.15, Raw pred: 24, Adapted pred: 24, Target: 24
+Sample: 495, Time: 3.913s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 496, Time: 6.643s, Raw entropy: 0.47, Adapted entropy: 0.11, Raw pred: 27, Adapted pred: 27, Target: 27
+[3, 4, 2, 0, 1, 11, 10, 17, 12, 22, 8, 26, 27, 20, 19, 29, 18, 30, 31, 16, 32, 6, 23, 21, 13, 9, 25, 34, 28, 35, 36, 24, 5, 33, 15, 7, 14, 37]
+Sample: 497, Time: 6.020s, Raw entropy: 1.50, Adapted entropy: 1.51, Raw pred: 26, Adapted pred: 26, Target: 26
+Sample: 498, Time: 3.845s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 499, Time: 3.710s, Raw entropy: 0.01, Adapted entropy: 0.02, Raw pred: 15, Adapted pred: 15, Target: 15
+=> Total evaluation time: 2510.78s
+=> Acc. on testset [pets]: @1 86.0/ @5 96.4000015258789
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.005	64
+		 [set_id] 		 Top-1 acc. 		 Top-5 acc.
+pets
+
+
+86.00
+
+

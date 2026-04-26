@@ -1,0 +1,311 @@
+evaluating: pets
+number of test samples: 200
+[0, 1, 2, 3, 4]
+Sample: 0, Raw entropy: 0.59, Adapted entropy: 0.12, Raw pred: 6, Adapted pred: 6, Target: 6
+[1, 2, 3, 4, 0, 5]
+Sample: 1, Raw entropy: 0.27, Adapted entropy: 0.05, Raw pred: 17, Adapted pred: 17, Target: 17
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 2, Raw entropy: 0.36, Adapted entropy: 0.16, Raw pred: 1, Adapted pred: 1, Target: 1
+Sample: 3, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 0, Adapted pred: 0, Target: 0
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 4, Raw entropy: 0.60, Adapted entropy: 0.60, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 5, Raw entropy: 0.58, Adapted entropy: 0.17, Raw pred: 11, Adapted pred: 11, Target: 11
+[2, 3, 4, 0, 5, 1, 6]
+Sample: 6, Raw entropy: 1.11, Adapted entropy: 1.10, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 7, Raw entropy: 0.86, Adapted entropy: 0.45, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 8, Raw entropy: 0.98, Adapted entropy: 0.12, Raw pred: 24, Adapted pred: 24, Target: 24
+[2, 3, 4, 0, 5, 1, 6, 7]
+Sample: 9, Raw entropy: 0.63, Adapted entropy: 0.07, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 10, Raw entropy: 0.99, Adapted entropy: 0.18, Raw pred: 10, Adapted pred: 10, Target: 10
+[2, 3, 4, 5, 1, 6, 7, 0, 8]
+Sample: 11, Raw entropy: 0.36, Adapted entropy: 0.36, Raw pred: 35, Adapted pred: 35, Target: 35
+[2, 3, 4, 5, 1, 6, 7, 0, 8]
+Sample: 12, Raw entropy: 0.28, Adapted entropy: 0.28, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 13, Raw entropy: 0.27, Adapted entropy: 0.07, Raw pred: 10, Adapted pred: 10, Target: 10
+[2, 3, 4, 5, 1, 6, 7, 0, 8, 9]
+Sample: 14, Raw entropy: 0.12, Adapted entropy: 0.02, Raw pred: 15, Adapted pred: 15, Target: 15
+[2, 3, 4, 1, 6, 0, 8, 9, 7, 5]
+Sample: 15, Raw entropy: 0.48, Adapted entropy: 0.16, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 16, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 17, Adapted pred: 17, Target: 17
+[2, 3, 4, 1, 6, 0, 8, 9, 7, 5]
+Sample: 17, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 18, Raw entropy: 0.87, Adapted entropy: 0.50, Raw pred: 26, Adapted pred: 26, Target: 26
+[2, 3, 4, 1, 6, 0, 8, 9, 7, 5]
+Sample: 19, Raw entropy: 0.41, Adapted entropy: 0.07, Raw pred: 3, Adapted pred: 3, Target: 4
+[2, 3, 4, 1, 0, 8, 9, 7, 5, 6, 10]
+Sample: 20, Raw entropy: 0.24, Adapted entropy: 0.04, Raw pred: 5, Adapted pred: 5, Target: 5
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 21, Raw entropy: 0.60, Adapted entropy: 0.26, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 22, Raw entropy: 0.46, Adapted entropy: 0.46, Raw pred: 4, Adapted pred: 4, Target: 4
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 23, Raw entropy: 0.59, Adapted entropy: 0.59, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 24, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 29, Adapted pred: 29, Target: 29
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 25, Raw entropy: 0.54, Adapted entropy: 0.33, Raw pred: 29, Adapted pred: 29, Target: 29
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 26, Raw entropy: 0.82, Adapted entropy: 0.82, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 27, Raw entropy: 0.77, Adapted entropy: 0.17, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 28, Raw entropy: 0.24, Adapted entropy: 0.25, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 29, Raw entropy: 0.23, Adapted entropy: 0.23, Raw pred: 20, Adapted pred: 20, Target: 20
+[2, 3, 4, 1, 0, 8, 5, 6, 10, 7, 9]
+Sample: 30, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+[2, 3, 4, 1, 0, 8, 6, 7, 9, 10, 5]
+Sample: 31, Raw entropy: 0.73, Adapted entropy: 0.73, Raw pred: 2, Adapted pred: 2, Target: 2
+[2, 3, 4, 1, 0, 8, 6, 7, 9, 10, 5]
+Sample: 32, Raw entropy: 0.70, Adapted entropy: 0.45, Raw pred: 2, Adapted pred: 2, Target: 2
+[2, 3, 4, 1, 0, 8, 6, 7, 9, 10, 5]
+Sample: 33, Raw entropy: 0.08, Adapted entropy: 0.18, Raw pred: 29, Adapted pred: 29, Target: 29
+[2, 3, 4, 1, 0, 8, 6, 7, 9, 10, 5]
+Sample: 34, Raw entropy: 0.08, Adapted entropy: 0.08, Raw pred: 9, Adapted pred: 9, Target: 9
+[2, 3, 4, 1, 0, 8, 9, 10, 5, 7, 6]
+Sample: 35, Raw entropy: 1.02, Adapted entropy: 1.02, Raw pred: 8, Adapted pred: 8, Target: 8
+[2, 3, 4, 1, 0, 8, 9, 10, 5, 7, 6]
+Sample: 36, Raw entropy: 0.16, Adapted entropy: 0.04, Raw pred: 11, Adapted pred: 11, Target: 11
+[2, 3, 4, 1, 0, 8, 10, 5, 7, 6, 9, 11]
+Sample: 37, Raw entropy: 0.02, Adapted entropy: 0.01, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 38, Raw entropy: 1.43, Adapted entropy: 0.24, Raw pred: 0, Adapted pred: 0, Target: 7
+[2, 3, 4, 1, 0, 8, 5, 7, 6, 9, 11, 10]
+Sample: 39, Raw entropy: 0.33, Adapted entropy: 0.33, Raw pred: 33, Adapted pred: 33, Target: 33
+[2, 3, 4, 1, 0, 8, 5, 7, 6, 9, 11, 10]
+Sample: 40, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 19, Adapted pred: 19, Target: 19
+[2, 3, 4, 1, 0, 8, 7, 6, 9, 11, 10, 5]
+Sample: 41, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 21, Adapted pred: 21, Target: 21
+[2, 3, 4, 1, 0, 8, 6, 9, 11, 10, 5, 7, 12]
+Sample: 42, Raw entropy: 1.30, Adapted entropy: 0.53, Raw pred: 6, Adapted pred: 6, Target: 26
+[2, 3, 4, 1, 0, 8, 6, 9, 11, 10, 5, 7, 12]
+Sample: 43, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 30, Adapted pred: 30, Target: 30
+[2, 3, 4, 1, 0, 8, 6, 9, 11, 10, 5, 7, 12]
+Sample: 44, Raw entropy: 0.23, Adapted entropy: 0.06, Raw pred: 12, Adapted pred: 12, Target: 12
+[2, 3, 4, 1, 0, 8, 9, 11, 10, 5, 7, 12, 6, 13]
+Sample: 45, Raw entropy: 0.98, Adapted entropy: 0.46, Raw pred: 2, Adapted pred: 2, Target: 2
+[2, 3, 4, 1, 0, 8, 9, 11, 10, 5, 7, 12, 6, 13]
+Sample: 46, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 19, Adapted pred: 19, Target: 19
+[2, 3, 4, 1, 0, 8, 11, 5, 7, 12, 6, 13, 10, 9]
+Sample: 47, Raw entropy: 0.13, Adapted entropy: 0.13, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 48, Raw entropy: 0.01, Adapted entropy: 0.02, Raw pred: 3, Adapted pred: 3, Target: 3
+Sample: 49, Raw entropy: 0.21, Adapted entropy: 0.22, Raw pred: 6, Adapted pred: 6, Target: 6
+[2, 3, 4, 1, 0, 8, 11, 5, 7, 12, 6, 13, 10, 9]
+Sample: 50, Raw entropy: 0.56, Adapted entropy: 0.56, Raw pred: 13, Adapted pred: 13, Target: 12
+Sample: 51, Raw entropy: 1.16, Adapted entropy: 0.21, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 52, Raw entropy: 0.66, Adapted entropy: 0.14, Raw pred: 27, Adapted pred: 27, Target: 27
+Sample: 53, Raw entropy: 0.15, Adapted entropy: 0.11, Raw pred: 27, Adapted pred: 27, Target: 27
+[2, 3, 4, 1, 0, 8, 11, 5, 7, 12, 6, 13, 10, 9, 14]
+Sample: 54, Raw entropy: 0.25, Adapted entropy: 0.11, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 55, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 56, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+[2, 3, 4, 1, 0, 8, 11, 5, 12, 6, 13, 10, 9, 14, 7, 15]
+Sample: 57, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+[2, 3, 4, 1, 0, 8, 11, 5, 12, 13, 10, 9, 14, 7, 15, 6, 16]
+Sample: 58, Raw entropy: 1.57, Adapted entropy: 0.62, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 59, Raw entropy: 0.12, Adapted entropy: 0.11, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 60, Raw entropy: 0.28, Adapted entropy: 0.29, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 61, Raw entropy: 0.40, Adapted entropy: 0.15, Raw pred: 6, Adapted pred: 6, Target: 26
+Sample: 62, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+Sample: 63, Raw entropy: 0.26, Adapted entropy: 0.27, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 64, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 0, Adapted pred: 0, Target: 0
+[2, 3, 4, 1, 0, 8, 11, 5, 12, 13, 10, 9, 14, 7, 15, 6, 16]
+Sample: 65, Raw entropy: 0.04, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+[2, 3, 4, 1, 0, 8, 11, 5, 12, 10, 9, 14, 7, 15, 6, 16, 13, 17]
+Sample: 66, Raw entropy: 0.22, Adapted entropy: 0.06, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 67, Raw entropy: 0.06, Adapted entropy: 0.02, Raw pred: 15, Adapted pred: 15, Target: 15
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 68, Raw entropy: 0.94, Adapted entropy: 0.16, Raw pred: 23, Adapted pred: 23, Target: 23
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 69, Raw entropy: 0.26, Adapted entropy: 0.26, Raw pred: 13, Adapted pred: 13, Target: 13
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 70, Raw entropy: 0.76, Adapted entropy: 0.76, Raw pred: 0, Adapted pred: 0, Target: 33
+Sample: 71, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 21, Adapted pred: 21, Target: 21
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 72, Raw entropy: 0.42, Adapted entropy: 0.42, Raw pred: 34, Adapted pred: 34, Target: 34
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 73, Raw entropy: 1.76, Adapted entropy: 1.76, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 74, Raw entropy: 0.06, Adapted entropy: 0.05, Raw pred: 18, Adapted pred: 18, Target: 18
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 75, Raw entropy: 0.13, Adapted entropy: 0.13, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 76, Raw entropy: 0.28, Adapted entropy: 0.34, Raw pred: 29, Adapted pred: 29, Target: 29
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 77, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 78, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 36, Adapted pred: 36, Target: 36
+[2, 3, 4, 1, 0, 8, 11, 12, 9, 14, 7, 15, 6, 16, 13, 17, 10, 5]
+Sample: 79, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 80, Raw entropy: 0.29, Adapted entropy: 0.29, Raw pred: 13, Adapted pred: 13, Target: 13
+[2, 3, 4, 1, 0, 8, 11, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12]
+Sample: 81, Raw entropy: 1.37, Adapted entropy: 1.10, Raw pred: 3, Adapted pred: 28, Target: 1
+[2, 3, 4, 1, 0, 8, 11, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12]
+Sample: 82, Raw entropy: 0.08, Adapted entropy: 0.00, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 83, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 84, Raw entropy: 0.00, Adapted entropy: 0.04, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 85, Raw entropy: 0.56, Adapted entropy: 0.10, Raw pred: 32, Adapted pred: 32, Target: 32
+Sample: 86, Raw entropy: 0.03, Adapted entropy: 0.16, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 87, Raw entropy: 0.16, Adapted entropy: 0.16, Raw pred: 9, Adapted pred: 9, Target: 9
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 88, Raw entropy: 1.25, Adapted entropy: 1.25, Raw pred: 2, Adapted pred: 2, Target: 2
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 89, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 90, Raw entropy: 2.02, Adapted entropy: 2.47, Raw pred: 27, Adapted pred: 27, Target: 7
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 91, Raw entropy: 0.57, Adapted entropy: 0.57, Raw pred: 12, Adapted pred: 12, Target: 12
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 92, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 93, Raw entropy: 0.04, Adapted entropy: 0.05, Raw pred: 18, Adapted pred: 18, Target: 18
+Sample: 94, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 95, Raw entropy: 1.28, Adapted entropy: 1.28, Raw pred: 10, Adapted pred: 10, Target: 10
+Sample: 96, Raw entropy: 0.13, Adapted entropy: 0.12, Raw pred: 4, Adapted pred: 4, Target: 4
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 97, Raw entropy: 0.33, Adapted entropy: 0.33, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 98, Raw entropy: 0.43, Adapted entropy: 0.22, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 99, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 100, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 17, Adapted pred: 17, Target: 17
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 101, Raw entropy: 1.89, Adapted entropy: 1.89, Raw pred: 32, Adapted pred: 32, Target: 7
+Sample: 102, Raw entropy: 0.98, Adapted entropy: 0.47, Raw pred: 9, Adapted pred: 9, Target: 23
+Sample: 103, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 4, Adapted pred: 4, Target: 4
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 104, Raw entropy: 0.54, Adapted entropy: 0.26, Raw pred: 3, Adapted pred: 3, Target: 4
+[2, 3, 4, 1, 0, 8, 9, 14, 7, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19]
+Sample: 105, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 18, Adapted pred: 18, Target: 18
+[2, 3, 4, 1, 0, 8, 9, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20]
+Sample: 106, Raw entropy: 0.95, Adapted entropy: 0.35, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 107, Raw entropy: 0.57, Adapted entropy: 0.32, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 1, 0, 8, 9, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20]
+Sample: 108, Raw entropy: 0.24, Adapted entropy: 0.24, Raw pred: 15, Adapted pred: 15, Target: 15
+[2, 3, 4, 1, 0, 8, 9, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20]
+Sample: 109, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 110, Raw entropy: 0.39, Adapted entropy: 0.28, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 111, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+[2, 3, 4, 1, 0, 8, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20, 9, 21]
+Sample: 112, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 113, Raw entropy: 0.07, Adapted entropy: 0.08, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 114, Raw entropy: 0.71, Adapted entropy: 0.25, Raw pred: 6, Adapted pred: 6, Target: 26
+[2, 3, 4, 1, 0, 8, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20, 9, 21]
+Sample: 115, Raw entropy: 0.57, Adapted entropy: 0.57, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 116, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 117, Raw entropy: 0.65, Adapted entropy: 0.21, Raw pred: 27, Adapted pred: 27, Target: 27
+[2, 3, 4, 1, 0, 8, 14, 15, 16, 13, 17, 10, 5, 6, 12, 11, 18, 19, 7, 20, 9, 21, 22]
+Sample: 118, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+[2, 3, 4, 1, 0, 8, 14, 15, 16, 13, 17, 5, 6, 12, 11, 18, 19, 7, 20, 9, 21, 22, 10, 23]
+Sample: 119, Raw entropy: 0.22, Adapted entropy: 0.02, Raw pred: 23, Adapted pred: 23, Target: 23
+[2, 3, 4, 1, 0, 8, 15, 16, 13, 5, 6, 12, 11, 18, 19, 7, 20, 9, 21, 22, 10, 23, 17, 14]
+Sample: 120, Raw entropy: 0.11, Adapted entropy: 0.05, Raw pred: 19, Adapted pred: 19, Target: 19
+[2, 3, 4, 1, 0, 8, 15, 16, 13, 6, 12, 11, 18, 19, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5]
+Sample: 121, Raw entropy: 0.02, Adapted entropy: 0.01, Raw pred: 29, Adapted pred: 29, Target: 29
+Sample: 122, Raw entropy: 1.14, Adapted entropy: 0.48, Raw pred: 6, Adapted pred: 6, Target: 26
+Sample: 123, Raw entropy: 0.35, Adapted entropy: 0.35, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 124, Raw entropy: 0.49, Adapted entropy: 0.34, Raw pred: 28, Adapted pred: 28, Target: 28
+[2, 3, 4, 1, 0, 8, 15, 16, 13, 12, 11, 18, 19, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24]
+Sample: 125, Raw entropy: 0.17, Adapted entropy: 0.06, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 126, Raw entropy: 0.45, Adapted entropy: 0.34, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 127, Raw entropy: 0.33, Adapted entropy: 0.32, Raw pred: 17, Adapted pred: 17, Target: 17
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 11, 18, 19, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25]
+Sample: 128, Raw entropy: 1.47, Adapted entropy: 1.21, Raw pred: 0, Adapted pred: 0, Target: 7
+Sample: 129, Raw entropy: 1.24, Adapted entropy: 0.33, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 130, Raw entropy: 0.26, Adapted entropy: 0.25, Raw pred: 34, Adapted pred: 34, Target: 34
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 11, 18, 19, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25]
+Sample: 131, Raw entropy: 0.54, Adapted entropy: 0.54, Raw pred: 19, Adapted pred: 19, Target: 22
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 11, 18, 19, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25]
+Sample: 132, Raw entropy: 0.10, Adapted entropy: 0.10, Raw pred: 33, Adapted pred: 33, Target: 33
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 18, 7, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25, 19, 11]
+Sample: 133, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 134, Raw entropy: 0.99, Adapted entropy: 0.38, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 135, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 136, Raw entropy: 0.57, Adapted entropy: 0.12, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 137, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25, 19, 11, 7, 26]
+Sample: 138, Raw entropy: 1.35, Adapted entropy: 1.05, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 1, 0, 8, 16, 13, 12, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 25, 19, 11, 7, 26]
+Sample: 139, Raw entropy: 0.09, Adapted entropy: 0.09, Raw pred: 14, Adapted pred: 14, Target: 14
+[2, 3, 4, 1, 0, 8, 16, 13, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 19, 11, 7, 26, 25, 12]
+Sample: 140, Raw entropy: 0.97, Adapted entropy: 0.97, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 141, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 142, Raw entropy: 1.03, Adapted entropy: 0.39, Raw pred: 6, Adapted pred: 6, Target: 6
+Sample: 143, Raw entropy: 0.11, Adapted entropy: 0.10, Raw pred: 35, Adapted pred: 35, Target: 35
+[2, 3, 4, 1, 0, 8, 16, 13, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 19, 11, 7, 26, 25, 12]
+Sample: 144, Raw entropy: 0.57, Adapted entropy: 0.57, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 145, Raw entropy: 0.02, Adapted entropy: 0.03, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 146, Raw entropy: 0.47, Adapted entropy: 0.11, Raw pred: 0, Adapted pred: 0, Target: 0
+Sample: 147, Raw entropy: 1.42, Adapted entropy: 1.21, Raw pred: 23, Adapted pred: 20, Target: 23
+Sample: 148, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 149, Raw entropy: 0.16, Adapted entropy: 0.16, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 150, Raw entropy: 0.03, Adapted entropy: 0.03, Raw pred: 18, Adapted pred: 18, Target: 18
+[2, 3, 4, 1, 0, 8, 16, 13, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27]
+Sample: 151, Raw entropy: 0.08, Adapted entropy: 0.01, Raw pred: 15, Adapted pred: 15, Target: 15
+Sample: 152, Raw entropy: 0.11, Adapted entropy: 0.06, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 153, Raw entropy: 0.42, Adapted entropy: 0.33, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 154, Raw entropy: 0.44, Adapted entropy: 0.09, Raw pred: 6, Adapted pred: 6, Target: 6
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 9, 22, 10, 23, 17, 14, 21, 5, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29]
+Sample: 155, Raw entropy: 0.34, Adapted entropy: 0.06, Raw pred: 23, Adapted pred: 23, Target: 23
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 9, 22, 10, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17]
+Sample: 156, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+Sample: 157, Raw entropy: 0.36, Adapted entropy: 0.02, Raw pred: 11, Adapted pred: 11, Target: 11
+Sample: 158, Raw entropy: 0.94, Adapted entropy: 0.66, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 159, Raw entropy: 1.10, Adapted entropy: 0.77, Raw pred: 8, Adapted pred: 8, Target: 1
+Sample: 160, Raw entropy: 1.27, Adapted entropy: 0.94, Raw pred: 20, Adapted pred: 20, Target: 20
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 9, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10]
+Sample: 161, Raw entropy: 0.02, Adapted entropy: 0.02, Raw pred: 14, Adapted pred: 14, Target: 14
+Sample: 162, Raw entropy: 0.07, Adapted entropy: 0.06, Raw pred: 14, Adapted pred: 14, Target: 14
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9]
+Sample: 163, Raw entropy: 0.74, Adapted entropy: 0.74, Raw pred: 34, Adapted pred: 34, Target: 2
+Sample: 164, Raw entropy: 0.70, Adapted entropy: 0.35, Raw pred: 20, Adapted pred: 20, Target: 20
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9]
+Sample: 165, Raw entropy: 0.38, Adapted entropy: 0.38, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 166, Raw entropy: 0.05, Adapted entropy: 0.06, Raw pred: 21, Adapted pred: 21, Target: 21
+Sample: 167, Raw entropy: 0.08, Adapted entropy: 0.07, Raw pred: 28, Adapted pred: 28, Target: 28
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9]
+Sample: 168, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+Sample: 169, Raw entropy: 0.42, Adapted entropy: 0.17, Raw pred: 18, Adapted pred: 18, Target: 19
+Sample: 170, Raw entropy: 0.06, Adapted entropy: 0.06, Raw pred: 8, Adapted pred: 8, Target: 8
+Sample: 171, Raw entropy: 0.18, Adapted entropy: 0.18, Raw pred: 20, Adapted pred: 20, Target: 20
+Sample: 172, Raw entropy: 0.85, Adapted entropy: 0.63, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 173, Raw entropy: 0.57, Adapted entropy: 0.11, Raw pred: 33, Adapted pred: 33, Target: 33
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 174, Raw entropy: 1.27, Adapted entropy: 1.18, Raw pred: 35, Adapted pred: 35, Target: 35
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 175, Raw entropy: 0.20, Adapted entropy: 0.20, Raw pred: 11, Adapted pred: 11, Target: 11
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 176, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 177, Raw entropy: 0.14, Adapted entropy: 0.13, Raw pred: 9, Adapted pred: 9, Target: 9
+Sample: 178, Raw entropy: 0.21, Adapted entropy: 0.21, Raw pred: 2, Adapted pred: 2, Target: 2
+Sample: 179, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 9, Adapted pred: 9, Target: 9
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 180, Raw entropy: 1.39, Adapted entropy: 1.39, Raw pred: 16, Adapted pred: 16, Target: 35
+Sample: 181, Raw entropy: 0.03, Adapted entropy: 0.04, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 182, Raw entropy: 0.28, Adapted entropy: 0.28, Raw pred: 0, Adapted pred: 0, Target: 5
+Sample: 183, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 17, Adapted pred: 17, Target: 17
+Sample: 184, Raw entropy: 1.06, Adapted entropy: 0.76, Raw pred: 23, Adapted pred: 23, Target: 23
+Sample: 185, Raw entropy: 0.28, Adapted entropy: 0.28, Raw pred: 1, Adapted pred: 1, Target: 1
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 186, Raw entropy: 0.32, Adapted entropy: 0.32, Raw pred: 34, Adapted pred: 34, Target: 34
+Sample: 187, Raw entropy: 0.11, Adapted entropy: 0.11, Raw pred: 12, Adapted pred: 12, Target: 12
+Sample: 188, Raw entropy: 0.22, Adapted entropy: 0.22, Raw pred: 16, Adapted pred: 16, Target: 16
+Sample: 189, Raw entropy: 0.06, Adapted entropy: 0.07, Raw pred: 28, Adapted pred: 28, Target: 28
+Sample: 190, Raw entropy: 0.15, Adapted entropy: 0.14, Raw pred: 36, Adapted pred: 36, Target: 36
+Sample: 191, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 13, Adapted pred: 13, Target: 13
+Sample: 192, Raw entropy: 1.34, Adapted entropy: 0.74, Raw pred: 20, Adapted pred: 20, Target: 20
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 14, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30]
+Sample: 193, Raw entropy: 0.30, Adapted entropy: 0.04, Raw pred: 5, Adapted pred: 5, Target: 5
+Sample: 194, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30, 14, 31]
+Sample: 195, Raw entropy: 0.35, Adapted entropy: 0.16, Raw pred: 15, Adapted pred: 15, Target: 15
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30, 14, 31]
+Sample: 196, Raw entropy: 1.94, Adapted entropy: 1.95, Raw pred: 9, Adapted pred: 9, Target: 7
+Sample: 197, Raw entropy: 0.17, Adapted entropy: 0.17, Raw pred: 23, Adapted pred: 23, Target: 23
+[2, 3, 4, 1, 0, 8, 13, 18, 20, 22, 23, 21, 6, 24, 15, 19, 11, 7, 26, 25, 12, 27, 16, 28, 29, 5, 17, 10, 9, 30, 14, 31]
+Sample: 198, Raw entropy: 0.07, Adapted entropy: 0.07, Raw pred: 25, Adapted pred: 25, Target: 25
+Sample: 199, Raw entropy: 0.93, Adapted entropy: 1.01, Raw pred: 16, Adapted pred: 16, Target: 35
+Test: [199/200]	Time  6.242 ( 4.853)	Acc@1   0.00 ( 88.00)	Acc@5 100.00 ( 96.50)
+=> Acc. on testset [pets]: @1 88.0/ @5 96.5
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.005	64
+		 [set_id] 		 Top-1 acc. 		 Top-5 acc.
+pets
+
+
+88.00
+
+
