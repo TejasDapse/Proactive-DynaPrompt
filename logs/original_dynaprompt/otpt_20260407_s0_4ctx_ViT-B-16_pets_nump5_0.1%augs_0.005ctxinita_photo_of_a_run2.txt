@@ -1,0 +1,611 @@
+evaluating: pets
+number of test samples: 200
+[0, 1, 2, 3, 4]
+Sample: 0, Time: 4.355s, Raw entropy: -0.00, Adapted entropy: 0.12, Raw pred: 0, Adapted pred: 6, Target: 6
+[1, 2, 3, 4, 0]
+Sample: 1, Time: 3.519s, Raw entropy: -0.00, Adapted entropy: 0.05, Raw pred: 0, Adapted pred: 17, Target: 17
+[2, 3, 4, 0, 1]
+Sample: 2, Time: 3.651s, Raw entropy: 0.36, Adapted entropy: 0.16, Raw pred: 1, Adapted pred: 1, Target: 1
+[4, 0, 1, 3, 2]
+Sample: 3, Time: 3.598s, Raw entropy: 0.03, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 0
+[0, 3, 2, 1, 4]
+Sample: 4, Time: 3.488s, Raw entropy: -0.00, Adapted entropy: 0.26, Raw pred: 0, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 3
+[3, 2, 1, 4, 0]
+Sample: 5, Time: 3.608s, Raw entropy: 0.62, Adapted entropy: 0.19, Raw pred: 11, Adapted pred: 11, Target: 11
+All prompts are used, reset prompt 2
+[2, 1, 4, 0, 3]
+Sample: 6, Time: 3.592s, Raw entropy: 1.17, Adapted entropy: 1.04, Raw pred: 29, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 1
+[1, 0, 3, 4, 2]
+Sample: 7, Time: 3.585s, Raw entropy: 0.87, Adapted entropy: 0.33, Raw pred: 20, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 0
+[0, 4, 2, 3, 1]
+Sample: 8, Time: 3.610s, Raw entropy: 0.94, Adapted entropy: 0.13, Raw pred: 24, Adapted pred: 24, Target: 24
+All prompts are used, reset prompt 2
+[2, 3, 1, 4, 0]
+Sample: 9, Time: 3.478s, Raw entropy: -0.00, Adapted entropy: 0.07, Raw pred: 0, Adapted pred: 6, Target: 6
+All prompts are used, reset prompt 3
+[3, 1, 4, 0, 2]
+Sample: 10, Time: 3.596s, Raw entropy: 0.09, Adapted entropy: 0.07, Raw pred: 10, Adapted pred: 10, Target: 10
+All prompts are used, reset prompt 1
+[1, 0, 2, 4, 3]
+Sample: 11, Time: 3.593s, Raw entropy: 0.44, Adapted entropy: 0.14, Raw pred: 35, Adapted pred: 35, Target: 35
+All prompts are used, reset prompt 0
+[0, 4, 3, 2, 1]
+Sample: 12, Time: 3.596s, Raw entropy: 0.30, Adapted entropy: 0.05, Raw pred: 28, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 4
+[4, 3, 2, 1, 0]
+Sample: 13, Time: 3.477s, Raw entropy: -0.00, Adapted entropy: 0.07, Raw pred: 0, Adapted pred: 10, Target: 10
+All prompts are used, reset prompt 3
+[3, 2, 1, 0, 4]
+Sample: 14, Time: 3.623s, Raw entropy: 0.16, Adapted entropy: 0.02, Raw pred: 15, Adapted pred: 15, Target: 15
+All prompts are used, reset prompt 2
+[2, 1, 0, 4, 3]
+Sample: 15, Time: 3.467s, Raw entropy: -0.00, Adapted entropy: 0.23, Raw pred: 0, Adapted pred: 34, Target: 2
+All prompts are used, reset prompt 1
+[1, 0, 4, 3, 2]
+Sample: 16, Time: 3.611s, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 17, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 0
+[0, 4, 2, 3, 1]
+Sample: 17, Time: 3.802s, Raw entropy: 0.04, Adapted entropy: 0.02, Raw pred: 3, Adapted pred: 3, Target: 3
+All prompts are used, reset prompt 2
+[2, 1, 3, 4, 0]
+Sample: 18, Time: 3.569s, Raw entropy: -0.00, Adapted entropy: 0.50, Raw pred: 0, Adapted pred: 26, Target: 26
+All prompts are used, reset prompt 1
+[1, 3, 4, 0, 2]
+Sample: 19, Time: 3.585s, Raw entropy: -0.00, Adapted entropy: 0.07, Raw pred: 0, Adapted pred: 3, Target: 4
+All prompts are used, reset prompt 3
+[3, 4, 0, 2, 1]
+Sample: 20, Time: 3.716s, Raw entropy: 0.31, Adapted entropy: 0.08, Raw pred: 5, Adapted pred: 5, Target: 5
+All prompts are used, reset prompt 0
+[0, 2, 1, 4, 3]
+Sample: 21, Time: 3.736s, Raw entropy: 0.52, Adapted entropy: 0.24, Raw pred: 1, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 1
+[1, 4, 3, 2, 0]
+Sample: 22, Time: 3.762s, Raw entropy: 0.59, Adapted entropy: 0.22, Raw pred: 4, Adapted pred: 4, Target: 4
+All prompts are used, reset prompt 4
+[4, 3, 2, 0, 1]
+Sample: 23, Time: 3.935s, Raw entropy: 0.53, Adapted entropy: 0.10, Raw pred: 9, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 3
+[3, 2, 0, 1, 4]
+Sample: 24, Time: 3.868s, Raw entropy: -0.00, Adapted entropy: 0.11, Raw pred: 0, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 2
+[2, 0, 1, 4, 3]
+Sample: 25, Time: 3.944s, Raw entropy: -0.00, Adapted entropy: 0.33, Raw pred: 0, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 0
+[0, 1, 4, 3, 2]
+Sample: 26, Time: 4.201s, Raw entropy: 0.91, Adapted entropy: 1.28, Raw pred: 26, Adapted pred: 26, Target: 6
+All prompts are used, reset prompt 1
+[1, 4, 2, 3, 0]
+Sample: 27, Time: 4.352s, Raw entropy: 0.92, Adapted entropy: 0.36, Raw pred: 32, Adapted pred: 32, Target: 32
+All prompts are used, reset prompt 2
+[2, 3, 0, 4, 1]
+Sample: 28, Time: 4.222s, Raw entropy: -0.00, Adapted entropy: 0.09, Raw pred: 0, Adapted pred: 15, Target: 15
+All prompts are used, reset prompt 3
+[3, 0, 4, 1, 2]
+Sample: 29, Time: 5.679s, Raw entropy: -0.00, Adapted entropy: 0.06, Raw pred: 0, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 0
+[0, 4, 1, 2, 3]
+Sample: 30, Time: 6.219s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 4
+[4, 1, 3, 2, 0]
+Sample: 31, Time: 5.310s, Raw entropy: -0.00, Adapted entropy: 0.28, Raw pred: 0, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 1
+[1, 3, 2, 0, 4]
+Sample: 32, Time: 4.798s, Raw entropy: -0.00, Adapted entropy: 0.44, Raw pred: 0, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 33, Time: 4.840s, Raw entropy: -0.00, Adapted entropy: 0.18, Raw pred: 0, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 34, Time: 5.273s, Raw entropy: 0.11, Adapted entropy: 0.02, Raw pred: 9, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 0
+[0, 1, 3, 4, 2]
+Sample: 35, Time: 5.154s, Raw entropy: 1.14, Adapted entropy: 0.98, Raw pred: 1, Adapted pred: 1, Target: 8
+All prompts are used, reset prompt 1
+[1, 3, 4, 2, 0]
+Sample: 36, Time: 5.340s, Raw entropy: 0.15, Adapted entropy: 0.04, Raw pred: 11, Adapted pred: 11, Target: 11
+All prompts are used, reset prompt 3
+[3, 4, 2, 0, 1]
+Sample: 37, Time: 5.511s, Raw entropy: 0.04, Adapted entropy: 0.04, Raw pred: 29, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 4
+[4, 2, 0, 1, 3]
+Sample: 38, Time: 5.209s, Raw entropy: 1.43, Adapted entropy: 0.24, Raw pred: 0, Adapted pred: 0, Target: 7
+All prompts are used, reset prompt 2
+[2, 0, 1, 3, 4]
+Sample: 39, Time: 5.208s, Raw entropy: 0.27, Adapted entropy: 0.15, Raw pred: 33, Adapted pred: 33, Target: 33
+All prompts are used, reset prompt 0
+[0, 1, 3, 4, 2]
+Sample: 40, Time: 5.263s, Raw entropy: 0.06, Adapted entropy: 0.01, Raw pred: 19, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 1
+[1, 3, 4, 2, 0]
+Sample: 41, Time: 5.158s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 21, Adapted pred: 21, Target: 21
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 42, Time: 5.199s, Raw entropy: 1.13, Adapted entropy: 0.73, Raw pred: 26, Adapted pred: 26, Target: 26
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 43, Time: 5.282s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 0
+[0, 4, 1, 3, 2]
+Sample: 44, Time: 4.956s, Raw entropy: -0.00, Adapted entropy: 0.06, Raw pred: 0, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 4
+[4, 1, 3, 2, 0]
+Sample: 45, Time: 4.915s, Raw entropy: -0.00, Adapted entropy: 0.43, Raw pred: 0, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 1
+[1, 3, 2, 0, 4]
+Sample: 46, Time: 4.895s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 47, Time: 5.114s, Raw entropy: 0.17, Adapted entropy: 0.04, Raw pred: 34, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 48, Time: 5.540s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 3, Adapted pred: 3, Target: 3
+All prompts are used, reset prompt 0
+[0, 4, 1, 3, 2]
+Sample: 49, Time: 5.887s, Raw entropy: 0.43, Adapted entropy: 0.33, Raw pred: 6, Adapted pred: 6, Target: 6
+All prompts are used, reset prompt 4
+[4, 1, 2, 3, 0]
+Sample: 50, Time: 5.082s, Raw entropy: -0.00, Adapted entropy: 0.61, Raw pred: 0, Adapted pred: 13, Target: 12
+All prompts are used, reset prompt 1
+[1, 2, 3, 0, 4]
+Sample: 51, Time: 5.173s, Raw entropy: -0.00, Adapted entropy: 0.21, Raw pred: 0, Adapted pred: 23, Target: 23
+All prompts are used, reset prompt 2
+[2, 3, 0, 4, 1]
+Sample: 52, Time: 6.447s, Raw entropy: 0.62, Adapted entropy: 0.21, Raw pred: 27, Adapted pred: 27, Target: 27
+All prompts are used, reset prompt 3
+[3, 0, 1, 4, 2]
+Sample: 53, Time: 5.315s, Raw entropy: -0.00, Adapted entropy: 0.10, Raw pred: 0, Adapted pred: 27, Target: 27
+All prompts are used, reset prompt 0
+[0, 1, 4, 2, 3]
+Sample: 54, Time: 5.418s, Raw entropy: 0.27, Adapted entropy: 0.13, Raw pred: 34, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 1
+[1, 4, 2, 3, 0]
+Sample: 55, Time: 6.392s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 4
+[4, 2, 3, 0, 1]
+Sample: 56, Time: 6.072s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 19, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 2
+[2, 3, 0, 1, 4]
+Sample: 57, Time: 5.439s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 3
+[3, 0, 1, 4, 2]
+Sample: 58, Time: 4.973s, Raw entropy: -0.00, Adapted entropy: 1.21, Raw pred: 0, Adapted pred: 11, Target: 11
+All prompts are used, reset prompt 0
+[0, 1, 4, 2, 3]
+Sample: 59, Time: 6.299s, Raw entropy: -0.00, Adapted entropy: 0.02, Raw pred: 0, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 1
+[1, 4, 2, 3, 0]
+Sample: 60, Time: 5.316s, Raw entropy: -0.00, Adapted entropy: 0.05, Raw pred: 0, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 4
+[4, 2, 3, 0, 1]
+Sample: 61, Time: 5.272s, Raw entropy: 0.41, Adapted entropy: 0.15, Raw pred: 6, Adapted pred: 6, Target: 26
+All prompts are used, reset prompt 2
+[2, 3, 0, 1, 4]
+Sample: 62, Time: 4.807s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 3
+[3, 0, 1, 4, 2]
+Sample: 63, Time: 4.941s, Raw entropy: 0.38, Adapted entropy: 0.05, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 1
+[1, 4, 2, 0, 3]
+Sample: 64, Time: 5.119s, Raw entropy: 0.05, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 2
+[2, 0, 3, 4, 1]
+Sample: 65, Time: 4.758s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 25, Target: 25
+All prompts are used, reset prompt 0
+[0, 3, 4, 1, 2]
+Sample: 66, Time: 5.300s, Raw entropy: -0.00, Adapted entropy: 0.03, Raw pred: 0, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 3
+[3, 4, 1, 2, 0]
+Sample: 67, Time: 6.121s, Raw entropy: 0.13, Adapted entropy: 0.02, Raw pred: 15, Adapted pred: 15, Target: 15
+All prompts are used, reset prompt 4
+[4, 1, 2, 0, 3]
+Sample: 68, Time: 5.294s, Raw entropy: -0.00, Adapted entropy: 0.16, Raw pred: 0, Adapted pred: 23, Target: 23
+All prompts are used, reset prompt 1
+[1, 2, 0, 3, 4]
+Sample: 69, Time: 4.969s, Raw entropy: -0.00, Adapted entropy: 0.14, Raw pred: 0, Adapted pred: 13, Target: 13
+All prompts are used, reset prompt 2
+[2, 0, 3, 4, 1]
+Sample: 70, Time: 4.847s, Raw entropy: 0.74, Adapted entropy: 0.27, Raw pred: 0, Adapted pred: 0, Target: 33
+All prompts are used, reset prompt 0
+[0, 3, 1, 4, 2]
+Sample: 71, Time: 4.696s, Raw entropy: 0.05, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+All prompts are used, reset prompt 1
+[1, 4, 2, 3, 0]
+Sample: 72, Time: 4.552s, Raw entropy: -0.00, Adapted entropy: 0.13, Raw pred: 0, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 4
+[4, 2, 3, 0, 1]
+Sample: 73, Time: 4.745s, Raw entropy: 1.78, Adapted entropy: 1.05, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 2
+[2, 3, 0, 1, 4]
+Sample: 74, Time: 5.964s, Raw entropy: 0.08, Adapted entropy: 0.02, Raw pred: 18, Adapted pred: 18, Target: 18
+All prompts are used, reset prompt 3
+[3, 0, 1, 4, 2]
+Sample: 75, Time: 5.848s, Raw entropy: 0.22, Adapted entropy: 0.06, Raw pred: 1, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 0
+[0, 4, 2, 1, 3]
+Sample: 76, Time: 5.505s, Raw entropy: 0.32, Adapted entropy: 0.24, Raw pred: 29, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 4
+[4, 1, 3, 2, 0]
+Sample: 77, Time: 5.187s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 25, Target: 25
+All prompts are used, reset prompt 1
+[1, 3, 2, 0, 4]
+Sample: 78, Time: 4.617s, Raw entropy: -0.00, Adapted entropy: 0.03, Raw pred: 0, Adapted pred: 36, Target: 36
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 79, Time: 4.732s, Raw entropy: 0.03, Adapted entropy: 0.00, Raw pred: 13, Adapted pred: 13, Target: 13
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 80, Time: 4.573s, Raw entropy: -0.00, Adapted entropy: 0.19, Raw pred: 0, Adapted pred: 13, Target: 13
+All prompts are used, reset prompt 0
+[0, 4, 1, 3, 2]
+Sample: 81, Time: 4.749s, Raw entropy: 1.39, Adapted entropy: 1.17, Raw pred: 3, Adapted pred: 3, Target: 1
+All prompts are used, reset prompt 4
+[4, 1, 2, 3, 0]
+Sample: 82, Time: 4.763s, Raw entropy: 0.09, Adapted entropy: 0.00, Raw pred: 5, Adapted pred: 5, Target: 5
+All prompts are used, reset prompt 1
+[1, 2, 3, 0, 4]
+Sample: 83, Time: 4.777s, Raw entropy: 0.02, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 2
+[2, 0, 4, 3, 1]
+Sample: 84, Time: 4.731s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 4
+[4, 3, 1, 0, 2]
+Sample: 85, Time: 4.950s, Raw entropy: 0.70, Adapted entropy: 0.20, Raw pred: 32, Adapted pred: 32, Target: 32
+All prompts are used, reset prompt 1
+[1, 0, 2, 3, 4]
+Sample: 86, Time: 4.813s, Raw entropy: 0.03, Adapted entropy: 0.18, Raw pred: 17, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 0
+[0, 2, 3, 4, 1]
+Sample: 87, Time: 4.747s, Raw entropy: 0.17, Adapted entropy: 0.04, Raw pred: 9, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 2
+[2, 3, 4, 1, 0]
+Sample: 88, Time: 4.570s, Raw entropy: -0.00, Adapted entropy: 0.74, Raw pred: 0, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 3
+[3, 4, 1, 0, 2]
+Sample: 89, Time: 4.771s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+All prompts are used, reset prompt 1
+[1, 0, 2, 4, 3]
+Sample: 90, Time: 4.879s, Raw entropy: 1.89, Adapted entropy: 2.08, Raw pred: 27, Adapted pred: 20, Target: 7
+All prompts are used, reset prompt 0
+[0, 2, 3, 4, 1]
+Sample: 91, Time: 4.606s, Raw entropy: -0.00, Adapted entropy: 0.60, Raw pred: 0, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 2
+[2, 3, 4, 1, 0]
+Sample: 92, Time: 4.522s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 31, Target: 31
+All prompts are used, reset prompt 3
+[3, 4, 1, 0, 2]
+Sample: 93, Time: 4.748s, Raw entropy: 0.29, Adapted entropy: 0.14, Raw pred: 18, Adapted pred: 18, Target: 18
+All prompts are used, reset prompt 1
+[1, 0, 2, 4, 3]
+Sample: 94, Time: 4.754s, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+All prompts are used, reset prompt 0
+[0, 2, 3, 4, 1]
+Sample: 95, Time: 5.191s, Raw entropy: 1.13, Adapted entropy: 1.19, Raw pred: 21, Adapted pred: 10, Target: 10
+All prompts are used, reset prompt 3
+[3, 4, 1, 2, 0]
+Sample: 96, Time: 5.043s, Raw entropy: 0.22, Adapted entropy: 0.01, Raw pred: 4, Adapted pred: 4, Target: 4
+All prompts are used, reset prompt 4
+[4, 1, 2, 0, 3]
+Sample: 97, Time: 4.757s, Raw entropy: 0.40, Adapted entropy: 0.11, Raw pred: 12, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 2
+[2, 0, 3, 1, 4]
+Sample: 98, Time: 4.691s, Raw entropy: -0.00, Adapted entropy: 0.22, Raw pred: 0, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 0
+[0, 3, 1, 4, 2]
+Sample: 99, Time: 4.771s, Raw entropy: 0.15, Adapted entropy: 0.09, Raw pred: 13, Adapted pred: 13, Target: 13
+All prompts are used, reset prompt 3
+[3, 1, 4, 2, 0]
+Sample: 100, Time: 4.760s, Raw entropy: 0.04, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 1
+[1, 2, 0, 4, 3]
+Sample: 101, Time: 5.594s, Raw entropy: 1.79, Adapted entropy: 0.77, Raw pred: 11, Adapted pred: 11, Target: 7
+All prompts are used, reset prompt 2
+[2, 0, 4, 3, 1]
+Sample: 102, Time: 5.803s, Raw entropy: -0.00, Adapted entropy: 0.47, Raw pred: 0, Adapted pred: 9, Target: 23
+All prompts are used, reset prompt 0
+[0, 4, 3, 1, 2]
+Sample: 103, Time: 5.511s, Raw entropy: 0.14, Adapted entropy: 0.01, Raw pred: 4, Adapted pred: 4, Target: 4
+All prompts are used, reset prompt 3
+[3, 1, 2, 4, 0]
+Sample: 104, Time: 5.247s, Raw entropy: 0.55, Adapted entropy: 0.26, Raw pred: 3, Adapted pred: 3, Target: 4
+All prompts are used, reset prompt 1
+[1, 2, 4, 0, 3]
+Sample: 105, Time: 4.724s, Raw entropy: -0.00, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 18, Target: 18
+All prompts are used, reset prompt 2
+[2, 4, 0, 3, 1]
+Sample: 106, Time: 6.307s, Raw entropy: 0.64, Adapted entropy: 0.26, Raw pred: 34, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 0
+[0, 3, 1, 4, 2]
+Sample: 107, Time: 5.606s, Raw entropy: 0.76, Adapted entropy: 0.18, Raw pred: 1, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 3
+[3, 1, 2, 4, 0]
+Sample: 108, Time: 5.098s, Raw entropy: -0.00, Adapted entropy: 0.42, Raw pred: 0, Adapted pred: 29, Target: 15
+All prompts are used, reset prompt 1
+[1, 2, 4, 0, 3]
+Sample: 109, Time: 4.730s, Raw entropy: 0.01, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+All prompts are used, reset prompt 2
+[2, 0, 3, 4, 1]
+Sample: 110, Time: 4.820s, Raw entropy: -0.00, Adapted entropy: 0.10, Raw pred: 0, Adapted pred: 36, Target: 36
+All prompts are used, reset prompt 0
+[0, 3, 4, 1, 2]
+Sample: 111, Time: 4.822s, Raw entropy: 0.01, Adapted entropy: 0.01, Raw pred: 35, Adapted pred: 35, Target: 35
+All prompts are used, reset prompt 3
+[3, 4, 2, 1, 0]
+Sample: 112, Time: 4.802s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 4
+[4, 1, 0, 2, 3]
+Sample: 113, Time: 4.792s, Raw entropy: 0.05, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 1
+[1, 0, 2, 3, 4]
+Sample: 114, Time: 4.850s, Raw entropy: 0.68, Adapted entropy: 0.12, Raw pred: 6, Adapted pred: 6, Target: 26
+All prompts are used, reset prompt 0
+[0, 2, 3, 4, 1]
+Sample: 115, Time: 4.781s, Raw entropy: 0.72, Adapted entropy: 0.24, Raw pred: 16, Adapted pred: 16, Target: 36
+All prompts are used, reset prompt 2
+[2, 3, 1, 4, 0]
+Sample: 116, Time: 4.716s, Raw entropy: 0.04, Adapted entropy: 0.84, Raw pred: 8, Adapted pred: 8, Target: 8
+All prompts are used, reset prompt 3
+[3, 1, 0, 4, 2]
+Sample: 117, Time: 4.782s, Raw entropy: 0.83, Adapted entropy: 0.52, Raw pred: 9, Adapted pred: 9, Target: 27
+All prompts are used, reset prompt 1
+[1, 0, 4, 2, 3]
+Sample: 118, Time: 4.639s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 31, Target: 31
+All prompts are used, reset prompt 0
+[0, 4, 2, 3, 1]
+Sample: 119, Time: 4.702s, Raw entropy: 0.68, Adapted entropy: 0.04, Raw pred: 23, Adapted pred: 23, Target: 23
+All prompts are used, reset prompt 4
+[4, 3, 1, 2, 0]
+Sample: 120, Time: 4.867s, Raw entropy: 0.18, Adapted entropy: 0.03, Raw pred: 19, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 3
+[3, 2, 0, 1, 4]
+Sample: 121, Time: 4.735s, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 29, Adapted pred: 29, Target: 29
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 122, Time: 4.571s, Raw entropy: -0.00, Adapted entropy: 0.48, Raw pred: 0, Adapted pred: 6, Target: 26
+All prompts are used, reset prompt 0
+[0, 4, 1, 3, 2]
+Sample: 123, Time: 4.775s, Raw entropy: 0.53, Adapted entropy: 0.74, Raw pred: 5, Adapted pred: 5, Target: 5
+All prompts are used, reset prompt 4
+[4, 1, 3, 2, 0]
+Sample: 124, Time: 6.013s, Raw entropy: 0.49, Adapted entropy: 0.35, Raw pred: 28, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 1
+[1, 3, 2, 0, 4]
+Sample: 125, Time: 5.786s, Raw entropy: 0.13, Adapted entropy: 0.06, Raw pred: 36, Adapted pred: 36, Target: 36
+All prompts are used, reset prompt 3
+[3, 2, 4, 0, 1]
+Sample: 126, Time: 5.424s, Raw entropy: 0.93, Adapted entropy: 0.98, Raw pred: 5, Adapted pred: 0, Target: 5
+All prompts are used, reset prompt 2
+[2, 4, 0, 1, 3]
+Sample: 127, Time: 4.752s, Raw entropy: 1.09, Adapted entropy: 0.53, Raw pred: 17, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 4
+[4, 0, 3, 1, 2]
+Sample: 128, Time: 4.842s, Raw entropy: 1.47, Adapted entropy: 1.21, Raw pred: 0, Adapted pred: 0, Target: 7
+All prompts are used, reset prompt 0
+[0, 3, 1, 2, 4]
+Sample: 129, Time: 4.806s, Raw entropy: 1.24, Adapted entropy: 0.33, Raw pred: 20, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 3
+[3, 1, 2, 4, 0]
+Sample: 130, Time: 4.724s, Raw entropy: 0.48, Adapted entropy: 0.18, Raw pred: 34, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 1
+[1, 2, 0, 4, 3]
+Sample: 131, Time: 4.690s, Raw entropy: -0.00, Adapted entropy: 0.06, Raw pred: 0, Adapted pred: 19, Target: 22
+All prompts are used, reset prompt 2
+[2, 0, 4, 3, 1]
+Sample: 132, Time: 4.630s, Raw entropy: 0.24, Adapted entropy: 0.07, Raw pred: 33, Adapted pred: 33, Target: 33
+All prompts are used, reset prompt 0
+[0, 3, 1, 4, 2]
+Sample: 133, Time: 4.904s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 3
+[3, 1, 2, 4, 0]
+Sample: 134, Time: 4.734s, Raw entropy: 1.05, Adapted entropy: 0.59, Raw pred: 6, Adapted pred: 6, Target: 6
+All prompts are used, reset prompt 2
+[2, 4, 0, 1, 3]
+Sample: 135, Time: 4.635s, Raw entropy: -0.00, Adapted entropy: 0.04, Raw pred: 0, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 4
+[4, 0, 1, 3, 2]
+Sample: 136, Time: 4.792s, Raw entropy: 0.60, Adapted entropy: 0.15, Raw pred: 2, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 0
+[0, 1, 2, 3, 4]
+Sample: 137, Time: 5.377s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 19, Target: 19
+All prompts are used, reset prompt 1
+[1, 2, 3, 4, 0]
+Sample: 138, Time: 5.193s, Raw entropy: 1.46, Adapted entropy: 0.87, Raw pred: 1, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 2
+[2, 4, 0, 3, 1]
+Sample: 139, Time: 4.864s, Raw entropy: 0.06, Adapted entropy: 0.04, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 4
+[4, 0, 1, 3, 2]
+Sample: 140, Time: 4.605s, Raw entropy: -0.00, Adapted entropy: 1.42, Raw pred: 0, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 0
+[0, 1, 3, 2, 4]
+Sample: 141, Time: 4.752s, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+All prompts are used, reset prompt 1
+[1, 3, 4, 2, 0]
+Sample: 142, Time: 4.604s, Raw entropy: -0.00, Adapted entropy: 0.39, Raw pred: 0, Adapted pred: 6, Target: 6
+All prompts are used, reset prompt 3
+[3, 4, 2, 0, 1]
+Sample: 143, Time: 4.752s, Raw entropy: 0.14, Adapted entropy: 0.10, Raw pred: 35, Adapted pred: 35, Target: 35
+All prompts are used, reset prompt 4
+[4, 2, 0, 1, 3]
+Sample: 144, Time: 4.602s, Raw entropy: -0.00, Adapted entropy: 0.32, Raw pred: 0, Adapted pred: 36, Target: 36
+All prompts are used, reset prompt 2
+[2, 0, 1, 3, 4]
+Sample: 145, Time: 4.776s, Raw entropy: 0.09, Adapted entropy: 0.03, Raw pred: 34, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 0
+[0, 1, 4, 3, 2]
+Sample: 146, Time: 4.742s, Raw entropy: 0.38, Adapted entropy: 0.14, Raw pred: 0, Adapted pred: 0, Target: 0
+All prompts are used, reset prompt 1
+[1, 4, 2, 3, 0]
+Sample: 147, Time: 4.805s, Raw entropy: 1.35, Adapted entropy: 0.50, Raw pred: 20, Adapted pred: 20, Target: 23
+All prompts are used, reset prompt 2
+[2, 3, 0, 4, 1]
+Sample: 148, Time: 5.992s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 3
+[3, 4, 1, 0, 2]
+Sample: 149, Time: 5.878s, Raw entropy: -0.00, Adapted entropy: 0.06, Raw pred: 0, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 4
+[4, 1, 0, 2, 3]
+Sample: 150, Time: 6.243s, Raw entropy: -0.00, Adapted entropy: 0.00, Raw pred: 0, Adapted pred: 18, Target: 18
+All prompts are used, reset prompt 1
+[1, 0, 2, 3, 4]
+Sample: 151, Time: 5.275s, Raw entropy: -0.00, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 15, Target: 15
+All prompts are used, reset prompt 0
+[0, 2, 3, 4, 1]
+Sample: 152, Time: 5.289s, Raw entropy: 0.07, Adapted entropy: 0.04, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 2
+[2, 3, 4, 1, 0]
+Sample: 153, Time: 5.050s, Raw entropy: 0.62, Adapted entropy: 0.38, Raw pred: 16, Adapted pred: 16, Target: 16
+All prompts are used, reset prompt 3
+[3, 4, 1, 0, 2]
+Sample: 154, Time: 4.944s, Raw entropy: 0.57, Adapted entropy: 0.18, Raw pred: 6, Adapted pred: 6, Target: 6
+All prompts are used, reset prompt 4
+[4, 1, 0, 2, 3]
+Sample: 155, Time: 5.071s, Raw entropy: 0.54, Adapted entropy: 0.12, Raw pred: 23, Adapted pred: 23, Target: 23
+All prompts are used, reset prompt 1
+[1, 0, 3, 2, 4]
+Sample: 156, Time: 4.890s, Raw entropy: 0.04, Adapted entropy: 0.01, Raw pred: 30, Adapted pred: 30, Target: 30
+All prompts are used, reset prompt 0
+[0, 2, 4, 3, 1]
+Sample: 157, Time: 4.723s, Raw entropy: -0.00, Adapted entropy: 0.22, Raw pred: 0, Adapted pred: 11, Target: 11
+All prompts are used, reset prompt 2
+[2, 4, 3, 1, 0]
+Sample: 158, Time: 4.865s, Raw entropy: 0.82, Adapted entropy: 0.57, Raw pred: 16, Adapted pred: 16, Target: 16
+All prompts are used, reset prompt 3
+[3, 1, 0, 4, 2]
+Sample: 159, Time: 4.672s, Raw entropy: -0.00, Adapted entropy: 0.77, Raw pred: 0, Adapted pred: 8, Target: 1
+All prompts are used, reset prompt 1
+[1, 0, 4, 2, 3]
+Sample: 160, Time: 4.847s, Raw entropy: 1.27, Adapted entropy: 0.94, Raw pred: 20, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 0
+[0, 4, 2, 3, 1]
+Sample: 161, Time: 4.868s, Raw entropy: 0.09, Adapted entropy: 0.02, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 2
+[2, 3, 1, 4, 0]
+Sample: 162, Time: 4.775s, Raw entropy: 0.06, Adapted entropy: 0.20, Raw pred: 14, Adapted pred: 14, Target: 14
+All prompts are used, reset prompt 3
+[3, 1, 0, 4, 2]
+Sample: 163, Time: 4.854s, Raw entropy: 0.84, Adapted entropy: 0.41, Raw pred: 34, Adapted pred: 34, Target: 2
+All prompts are used, reset prompt 1
+[1, 0, 2, 4, 3]
+Sample: 164, Time: 4.803s, Raw entropy: 0.76, Adapted entropy: 0.17, Raw pred: 20, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 0
+[0, 2, 4, 3, 1]
+Sample: 165, Time: 4.803s, Raw entropy: 0.24, Adapted entropy: 0.11, Raw pred: 12, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 2
+[2, 4, 1, 3, 0]
+Sample: 166, Time: 5.002s, Raw entropy: 0.03, Adapted entropy: 0.01, Raw pred: 21, Adapted pred: 21, Target: 21
+All prompts are used, reset prompt 4
+[4, 1, 0, 3, 2]
+Sample: 167, Time: 6.320s, Raw entropy: 0.11, Adapted entropy: 0.04, Raw pred: 28, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 1
+[1, 3, 2, 0, 4]
+Sample: 168, Time: 5.502s, Raw entropy: 0.00, Adapted entropy: 0.00, Raw pred: 31, Adapted pred: 31, Target: 31
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 169, Time: 5.012s, Raw entropy: -0.00, Adapted entropy: 0.17, Raw pred: 0, Adapted pred: 18, Target: 19
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 170, Time: 4.740s, Raw entropy: 0.33, Adapted entropy: 0.12, Raw pred: 8, Adapted pred: 8, Target: 8
+All prompts are used, reset prompt 0
+[0, 1, 3, 4, 2]
+Sample: 171, Time: 4.605s, Raw entropy: -0.00, Adapted entropy: 0.05, Raw pred: 0, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 1
+[1, 3, 4, 2, 0]
+Sample: 172, Time: 4.811s, Raw entropy: 0.75, Adapted entropy: 0.41, Raw pred: 16, Adapted pred: 16, Target: 16
+All prompts are used, reset prompt 3
+[3, 2, 0, 4, 1]
+Sample: 173, Time: 4.839s, Raw entropy: 0.57, Adapted entropy: 0.11, Raw pred: 33, Adapted pred: 33, Target: 33
+All prompts are used, reset prompt 2
+[2, 0, 4, 1, 3]
+Sample: 174, Time: 4.636s, Raw entropy: 1.30, Adapted entropy: 0.99, Raw pred: 35, Adapted pred: 35, Target: 35
+All prompts are used, reset prompt 4
+[4, 1, 3, 0, 2]
+Sample: 175, Time: 6.064s, Raw entropy: -0.00, Adapted entropy: 0.04, Raw pred: 0, Adapted pred: 11, Target: 11
+All prompts are used, reset prompt 1
+[1, 3, 0, 2, 4]
+Sample: 176, Time: 5.644s, Raw entropy: -0.00, Adapted entropy: 0.03, Raw pred: 0, Adapted pred: 25, Target: 25
+All prompts are used, reset prompt 3
+[3, 0, 2, 4, 1]
+Sample: 177, Time: 5.258s, Raw entropy: -0.00, Adapted entropy: 0.05, Raw pred: 0, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 0
+[0, 2, 4, 1, 3]
+Sample: 178, Time: 4.827s, Raw entropy: 0.65, Adapted entropy: 0.13, Raw pred: 2, Adapted pred: 2, Target: 2
+All prompts are used, reset prompt 2
+[2, 4, 3, 1, 0]
+Sample: 179, Time: 4.589s, Raw entropy: -0.00, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 9, Target: 9
+All prompts are used, reset prompt 4
+[4, 3, 1, 0, 2]
+Sample: 180, Time: 4.547s, Raw entropy: -0.00, Adapted entropy: 1.11, Raw pred: 0, Adapted pred: 16, Target: 35
+All prompts are used, reset prompt 3
+[3, 1, 0, 2, 4]
+Sample: 181, Time: 4.723s, Raw entropy: 0.03, Adapted entropy: 0.07, Raw pred: 28, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 0
+[0, 2, 4, 1, 3]
+Sample: 182, Time: 4.772s, Raw entropy: 0.13, Adapted entropy: 0.04, Raw pred: 0, Adapted pred: 0, Target: 5
+All prompts are used, reset prompt 2
+[2, 4, 1, 3, 0]
+Sample: 183, Time: 5.026s, Raw entropy: 0.06, Adapted entropy: 0.00, Raw pred: 17, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 4
+[4, 0, 1, 3, 2]
+Sample: 184, Time: 4.788s, Raw entropy: 1.07, Adapted entropy: 0.39, Raw pred: 9, Adapted pred: 9, Target: 23
+All prompts are used, reset prompt 0
+[0, 1, 3, 2, 4]
+Sample: 185, Time: 4.761s, Raw entropy: 0.25, Adapted entropy: 0.09, Raw pred: 1, Adapted pred: 1, Target: 1
+All prompts are used, reset prompt 1
+[1, 3, 4, 2, 0]
+Sample: 186, Time: 4.603s, Raw entropy: -0.00, Adapted entropy: 0.15, Raw pred: 0, Adapted pred: 34, Target: 34
+All prompts are used, reset prompt 3
+[3, 4, 2, 0, 1]
+Sample: 187, Time: 5.101s, Raw entropy: 0.08, Adapted entropy: 0.02, Raw pred: 12, Adapted pred: 12, Target: 12
+All prompts are used, reset prompt 4
+[4, 2, 1, 0, 3]
+Sample: 188, Time: 4.950s, Raw entropy: 0.42, Adapted entropy: 0.18, Raw pred: 16, Adapted pred: 16, Target: 16
+All prompts are used, reset prompt 2
+[2, 1, 0, 3, 4]
+Sample: 189, Time: 4.812s, Raw entropy: 0.08, Adapted entropy: 0.05, Raw pred: 28, Adapted pred: 28, Target: 28
+All prompts are used, reset prompt 1
+[1, 3, 4, 0, 2]
+Sample: 190, Time: 4.810s, Raw entropy: 0.18, Adapted entropy: 0.04, Raw pred: 36, Adapted pred: 36, Target: 36
+All prompts are used, reset prompt 3
+[3, 0, 2, 4, 1]
+Sample: 191, Time: 6.072s, Raw entropy: -0.00, Adapted entropy: 0.03, Raw pred: 0, Adapted pred: 13, Target: 13
+All prompts are used, reset prompt 0
+[0, 2, 4, 1, 3]
+Sample: 192, Time: 5.486s, Raw entropy: -0.00, Adapted entropy: 0.75, Raw pred: 0, Adapted pred: 20, Target: 20
+All prompts are used, reset prompt 2
+[2, 4, 1, 3, 0]
+Sample: 193, Time: 5.404s, Raw entropy: 0.22, Adapted entropy: 0.05, Raw pred: 5, Adapted pred: 5, Target: 5
+All prompts are used, reset prompt 4
+[4, 3, 0, 1, 2]
+Sample: 194, Time: 4.769s, Raw entropy: -0.00, Adapted entropy: 0.01, Raw pred: 0, Adapted pred: 17, Target: 17
+All prompts are used, reset prompt 3
+[3, 0, 1, 2, 4]
+Sample: 195, Time: 4.896s, Raw entropy: -0.00, Adapted entropy: 0.14, Raw pred: 0, Adapted pred: 15, Target: 15
+All prompts are used, reset prompt 0
+[0, 1, 2, 4, 3]
+Sample: 196, Time: 5.953s, Raw entropy: 1.87, Adapted entropy: 1.35, Raw pred: 9, Adapted pred: 9, Target: 7
+All prompts are used, reset prompt 1
+[1, 4, 3, 2, 0]
+Sample: 197, Time: 5.978s, Raw entropy: -0.00, Adapted entropy: 0.96, Raw pred: 0, Adapted pred: 9, Target: 23
+All prompts are used, reset prompt 4
+[4, 3, 2, 0, 1]
+Sample: 198, Time: 5.704s, Raw entropy: 0.04, Adapted entropy: 0.00, Raw pred: 25, Adapted pred: 25, Target: 25
+All prompts are used, reset prompt 3
+[3, 2, 0, 1, 4]
+Sample: 199, Time: 5.586s, Raw entropy: 0.86, Adapted entropy: 0.87, Raw pred: 16, Adapted pred: 16, Target: 35
+Test: [199/200]	Time  5.589 ( 4.892)	Acc@1   0.00 ( 84.50)	Acc@5 100.00 ( 96.00)
+=> Total evaluation time: 978.38s
+=> Acc. on testset [pets]: @1 84.5/ @5 96.0
+======== Result Summary ========
+params: nstep	lr	bs
+params: 1	0.005	64
+		 [set_id] 		 Top-1 acc. 		 Top-5 acc.
+pets
+
+
+84.50
+
+
