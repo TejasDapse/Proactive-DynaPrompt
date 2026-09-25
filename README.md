@@ -12,6 +12,16 @@ Proactive DynaPrompt is an advanced Test-Time Adaptation (TTA) framework for Vis
 
 ---
 
+## 📄 Deliverables
+
+| Document | Description |
+| :--- | :--- |
+| [Project Report](Deliverable/Report_Proactive_DynaPrompt.pdf) | Proactive-DynaPrompt: method, algorithm, experiments and ablations (9 pages) |
+| [Presentation 1](Deliverable/CS25MTECH14014_ppt1.pdf) | DynaPrompt (ICLR 2025) paper review: method, results and limitations (23 slides) |
+| [Presentation 2](Deliverable/cs25mtech14014_ppt2.pdf) | Proposed Proactive-DynaPrompt architecture and results on Oxford Pets (18 slides) |
+
+---
+
 ## 🛠️ Installation
 
 ### 1. Clone & Environment
